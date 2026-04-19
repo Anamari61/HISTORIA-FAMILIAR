@@ -1,0 +1,107 @@
+Iniciada la generación del Webbook
+----------- WebBook  - Publicación mejorada localmente o en Internet -----------
+WebBook  - 13.0.13853
+----------- Inicio de la generación de páginas -----------
+Sun Apr 19 00:00:20 CEST 2026
+ 
+ 
+----------- Parámetros usados durante la generación -----------
+param_title = Genealogía RUANO-BENÍTEZ
+param_author = ANA MARÍA RUANO BENÍTEZ
+param_address = 
+param_phone = 
+param_email = ARUANO@UOC.EDU
+param_dispMsg = 1
+param_dispStatAncestor = 1
+param_dispStatLoc = 1
+param_message = Agradezco vuestras aportaciones: nombres, fechas, datos...
+param_title_message = ÁRBOL GENEALÓGICO EN CONSTRUCCIÓN
+param_decujus = RUANO BENÍTEZ, ANA MARÍA (°19 May 1961 +) (I00001)
+param_unknown = ?
+param_dispSpouse = 1
+param_dispKids = 1
+param_dispSiblings = 1
+param_dispRelations = 1
+param_dispNotes = 1
+param_dispId = 1
+param_dispEmailButton = 1
+param_hidePrivateData = 0
+param_media_GeneSources = 1
+param_media_DisplaySources = Sin datos para el individuo asociado
+param_media_CopySources = 1
+param_media_GeneMedia = 1
+param_media_CopyMedia = 1
+param_media_GeneMap = 1
+param_media_DispUnknownLoc = 1
+param_dispAncestors = 1
+param_ancestorMinGen = 0
+param_ancestorMaxGen = 99
+param_ancestorSource = No mencionar las fuentes
+param_localWebDir = C:\Users\Usuario\Desktop\WEBBOOK
+param_logFile = C:\Users\Usuario\Desktop\WEBBOOK\webbookLog.txt
+param_FTP_upload = 0
+param_PHP_Support = 0
+param_Securise = 0
+----------- 
+ 
+----------- Limpiando directorio local -----------
+ 
+----------- Inicializando secciones de WebBook -----------
+Apellidos
+Lista de los individuos
+Detalles de los individuos
+Fuentes
+Fotos y otros multimedia
+Lista de ciudades
+Detalles de ciudades
+Calendario familiar
+Detalles del calendario
+Grado de endogamia
+Estadísticas
+Lista de ancestros
+Búsqueda de individuos
+Mapa geográfico
+
+
+ 
+----------- Creando secciones WebBook -----------
+theme: ok 
+includes: ok 
+names.html: ok 
+persons_1.html: ok 
+personsdetails_1.html: ok 
+personsdetails_2.html: ok 
+personsdetails_3.html: ok 
+personsdetails_4.html: ok 
+popupemail.htm: ok 
+sources_0.html: ok 
+popup.htm: ok 
+media_0.html: ok 
+media_1.html: ok 
+popup.htm: ok 
+cities.html: ok 
+citiesdetails_1.html: ok 
+days.html: ok 
+daysdetails_1.html: ok 
+stats_1.html: ok 
+stats_2.html: ok 
+repsosa_1.html: ok 
+repsosa_2.html: ok 
+search_0.html: ok 
+search_4.js: ok 
+map.html: ok 
+Number of ascendants: 77
+Number of cousins: 52
+13 lugares no se han encontrado. Si hubiera iniciado el módulo Geo anteriormente, Ancestris habría almacenado los lugares localmente para una recuperación más fácil.
+map-markers.js: ok 
+index.html: ok 
+ 
+----------- Transfiriendo archivos a su sitito WEB -----------
+No se requiere subida del archivo
+ 
+----------- Mostrando páginas WEB -----------
+file://C:/Users/Usuario/Desktop/WEBBOOK/index.html
+ 
+Sun Apr 19 00:00:23 CEST 2026
+----------- Fin de la generación de páginas -----------
+Generación del Webbook completada con éxito :))))
