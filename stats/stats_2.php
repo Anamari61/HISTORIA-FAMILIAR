@@ -1,0 +1,149 @@
+<?php chdir('..'); ?>
+<?php include("includes/awb_init.php"); ?>
+<!DOCTYPE html > 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" > 
+<head> 
+<title>Genealog&iacute;a RUANO-BEN&Iacute;TEZ&nbsp;-&nbsp;Grado de endogamia</title> 
+<meta charset="utf-8"> 
+<meta name="description" content="Genealog&iacute;a RUANO-BEN&Iacute;TEZ&nbsp;-&nbsp;Grado de endogamia " /> 
+<meta name="keywords" content="Généalogie, Genealogy, ancestors, ancêtres, descendance, famille, family tree, fredwebbook" /> 
+<meta name="author" content="ANA MAR&Iacute;A RUANO BEN&Iacute;TEZ" /> 
+<meta name="generator" content="Ancestris" /> 
+<meta name="robots" content="all" /> 
+<meta name="reply-to" content="ARUANO@UOC.EDU" /> 
+<meta name="owner" content="ANA MAR&Iacute;A RUANO BEN&Iacute;TEZ" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+
+<link rel="stylesheet" href="../theme/style.css" type="text/css"/>
+</head>
+<body>
+
+<!-- START OF VARIABLE CONTENT -->
+
+<div class="title"><a id="top">&nbsp;</a>Grado de endogamia</div>
+<p class="footer">
+<br /><br />
+<a href="../index.php#top" ><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida"/></a>
+</p>
+<div class="contreport">
+<p class="decal"><br /><span class="gras">Descripci&oacute;n</span></p>
+<p class="description">Este informa muestra los antepasados encontrados, la tasa de cobertura, el factor implex y el grado de consanguinidad.<br /><br />La tasa de cobertura es la relaci&oacute;n entre los antepasados conocidos y los posibles (columna % debajo)<br /><br />Un impex es una persona que aparece varias veces en el &aacute;rbol de los antepasados. Como resultado, el factor implex es la relaci&oacute;n entre el n&uacute;mero acumulado de antepasados y el n&uacute;mero de antepasados diferentes<br />Ejemplo: si un individuo tiene 100 antepasados, pero solo 80 son diferentes, la relaci&oacute;n implex es 1 - (80 / 100) = 20%.<br /><br />El grado de consanguinidad es la probabilidad de que dos alelos de este individuo sean iguales. Esto significa que los padres estan compartiendo uno o m&aacute;s ancestros comunes.</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="contreport">
+<p class="decal"><br /><span class="gras">Individuo ra&iacute;z</span></p>
+<p class="column1">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_4.php#I00001'>RUANO BEN&Iacute;TEZ, ANA MAR&Iacute;A&nbsp;(I00001)</a>&nbsp;(19 May 1961)
+<br /><br />
+Factor Implex:&nbsp;0.00%
+<br />
+Grado de consanguinidad:&nbsp;0,000000000
+<br /></p>
+<table border="0" cellspacing="0" cellpadding="5" class="column1"><thead><tr>
+<th>Generaci&oacute;n nb</th>
+<th>Nb de posibles ancestros</th>
+<th>Nb de ancestros conocidos</th>
+<th>% </th>
+<th>Nb acumulado de ancestros (A)</th>
+<th>% </th>
+<th>Nb de diferentes ancestros</th>
+<th>NB acumulado de diferentes ancestros (B)</th>
+<th>Implex % (1-B/A) </th>
+</tr></thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>100.0</td>
+<td>1</td>
+<td>100.0</td>
+<td>1</td>
+<td>1</td>
+<td>0.00</td>
+</tr>
+<tr>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>100.0</td>
+<td>3</td>
+<td>100.0</td>
+<td>2</td>
+<td>3</td>
+<td>0.00</td>
+</tr>
+<tr>
+<td>3</td>
+<td>4</td>
+<td>4</td>
+<td>100.0</td>
+<td>7</td>
+<td>100.0</td>
+<td>4</td>
+<td>7</td>
+<td>0.00</td>
+</tr>
+<tr>
+<td>4</td>
+<td>8</td>
+<td>8</td>
+<td>100.0</td>
+<td>15</td>
+<td>100.0</td>
+<td>8</td>
+<td>15</td>
+<td>0.00</td>
+</tr>
+<tr>
+<td>5</td>
+<td>16</td>
+<td>16</td>
+<td>100.0</td>
+<td>31</td>
+<td>100.0</td>
+<td>16</td>
+<td>31</td>
+<td>0.00</td>
+</tr>
+<tr>
+<td>6</td>
+<td>32</td>
+<td>24</td>
+<td>75.0</td>
+<td>55</td>
+<td>87.3</td>
+<td>24</td>
+<td>55</td>
+<td>0.00</td>
+</tr>
+<tr>
+<td>7</td>
+<td>64</td>
+<td>22</td>
+<td>34.37</td>
+<td>77</td>
+<td>60.62</td>
+<td>22</td>
+<td>77</td>
+<td>0.00</td>
+</tr>
+</tbody></table>
+<div class="spacer">&nbsp;</div></div>
+<div class="contreport">
+<p class="decal"><br /><span class="gras">Lista de antepasados comunes para la tasa de implex</span></p>
+<p class="column1">
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="contreport">
+<p class="decal"><br /><span class="gras">Lista de antepasados comunes para el grado de consanguinidad</span></p>
+</div>
+<div class="contreport">
+<p class="decal"><br /><span class="gras">Lista de ancestros con grado de endogamia distinto de cero</span></p>
+</div>
+<p><a id="bot"></a>&nbsp;</p>
+
+<!-- END OF VARIABLE CONTENT -->
+
+<?php include("includes/awb_footer.php"); ?>

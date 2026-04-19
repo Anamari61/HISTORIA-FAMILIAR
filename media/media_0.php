@@ -1,0 +1,247 @@
+<?php chdir('..'); ?>
+<?php include("includes/awb_init.php"); ?>
+<!DOCTYPE html > 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" > 
+<head> 
+<title>Genealog&iacute;a RUANO-BEN&Iacute;TEZ&nbsp;-&nbsp;Fotos y otro &iacute;ndice de multimedia</title> 
+<meta charset="utf-8"> 
+<meta name="description" content="Genealog&iacute;a RUANO-BEN&Iacute;TEZ&nbsp;-&nbsp;Fotos y otro &iacute;ndice de multimedia " /> 
+<meta name="keywords" content="Généalogie, Genealogy, ancestors, ancêtres, descendance, famille, family tree, fredwebbook" /> 
+<meta name="author" content="ANA MAR&Iacute;A RUANO BEN&Iacute;TEZ" /> 
+<meta name="generator" content="Ancestris" /> 
+<meta name="robots" content="all" /> 
+<meta name="reply-to" content="ARUANO@UOC.EDU" /> 
+<meta name="owner" content="ANA MAR&Iacute;A RUANO BEN&Iacute;TEZ" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+
+<link rel="stylesheet" href="../theme/style.css" type="text/css"/>
+</head>
+<body>
+
+<!-- START OF VARIABLE CONTENT -->
+
+<div class="title"><a id="top">&nbsp;</a>Fotos y otro &iacute;ndice de multimedia</div>
+<p class="letters">
+<br /><br />
+<a href="#A">A</a>&nbsp;&nbsp;
+<a href="#B">B</a>&nbsp;&nbsp;
+<a href="#C">C</a>&nbsp;&nbsp;
+D&nbsp;&nbsp;
+E&nbsp;&nbsp;
+F&nbsp;&nbsp;
+G&nbsp;&nbsp;
+H&nbsp;&nbsp;
+I&nbsp;&nbsp;
+J&nbsp;&nbsp;
+K&nbsp;&nbsp;
+L&nbsp;&nbsp;
+M&nbsp;&nbsp;
+N&nbsp;&nbsp;
+O&nbsp;&nbsp;
+Œ&nbsp;&nbsp;
+P&nbsp;&nbsp;
+Q&nbsp;&nbsp;
+<a href="#R">R</a>&nbsp;&nbsp;
+S&nbsp;&nbsp;
+T&nbsp;&nbsp;
+U&nbsp;&nbsp;
+V&nbsp;&nbsp;
+W&nbsp;&nbsp;
+X&nbsp;&nbsp;
+Y&nbsp;&nbsp;
+Z&nbsp;&nbsp;
+_&nbsp;&nbsp;
+<br /><br /></p>
+<p class="footer">
+<br /><br />
+<a href="media_0.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="media_0.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="media_0.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="media_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="media_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="media_0.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<p class="letter"><a id="A"></a>A</p>
+<div class="conteneur">
+<p class="medlist">1</p>
+<p class="medlisttitle"><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_1.php#I00040'>ARIZA ARIZA, CONCEPCI&Oacute;N&nbsp;(I00040)</a>&nbsp;(23 Oct 1907 - 31 Ene 1975)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#2115323867"> mama_ton2.jpg</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">2</p>
+<p class="medlisttitle"><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_1.php#I00118'>ARIZA ARIZA, DOLORES&nbsp;(I00118)</a>&nbsp;(28 Dic 1926)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#500458454"> ARIZA ARIZA, DOLORES (&deg; +)</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">3</p>
+<p class="medlisttitle"><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_1.php#I00114'>ARIZA ARIZA, FRANCISCO&nbsp;(I00114)</a>&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#1526076284"> frasquito.jpg</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">4</p>
+<p class="medlisttitle"><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_1.php#I00115'>ARIZA ARIZA, IGNACIO&nbsp;(I00115)</a>&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#877299061"> ARIZA ARIZA, IGNACIO (&deg; +)</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">5</p>
+<p class="medlisttitle"><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_1.php#I00119'>ARIZA ARIZA, TERESA&nbsp;(I00119)</a>&nbsp;(3 Mar 1930)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#1528989208"> ARIZA ARIZA, TERESA (&deg; +)</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">6</p>
+<p class="medlisttitle"><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>&nbsp;(1882 - May 1974)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#1708561529"> ARIZA BEN&Iacute;TEZ, DOLORES (&deg;1882 +May 1974)</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">7</p>
+<p class="medlisttitle"><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>&nbsp;(23 Nov 1885 - 1962)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#265356876"> papa_silverio2.jpg</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">8</p>
+<p class="medlisttitle"><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_1.php#I00024'>ARIZA MOYANO, ANA&nbsp;(I00024)</a>&nbsp;(1894 - Ene 1985)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#1867533294"> mama_anica.jpg</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">9</p>
+<p class="medlisttitle"><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_1.php#I00024'>ARIZA MOYANO, ANA&nbsp;(I00024)</a>&nbsp;(1894 - Ene 1985)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#537723482"> </a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">10</p>
+<p class="medlisttitle"><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_1.php#I00024'>ARIZA MOYANO, ANA&nbsp;(I00024)</a>&nbsp;(1894 - Ene 1985)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#1906917246"> </a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">11</p>
+<p class="medlisttitle"><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_1.php#I00031'>ARTACHO RUANO, MAR&Iacute;A DEL CARMEN&nbsp;(I00031)</a>&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#1993192545"> ARTACHO RUANO, MAR&Iacute;A DEL CARMEN (&deg; +)</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="letter"><a id="B"></a>B</p>
+<div class="conteneur">
+<p class="medlist">12</p>
+<p class="medlisttitle"><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00039'>BEN&Iacute;TEZ ARIAS, JOS&Eacute; (GONZALO)&nbsp;(I00039)</a>&nbsp;(13 Oct 1899 - 20 Feb 1991)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#464494189"> papa_gonzalo.jpg</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">13</p>
+<p class="medlisttitle"><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_2.php#I00043'>BEN&Iacute;TEZ ARIZA, ADELA&nbsp;(I00043)</a>&nbsp;(7 Nov 1938 - 20 Nov 2021)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#1400389776"> tita_adela.jpg</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">14</p>
+<p class="medlisttitle"><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00038'>BEN&Iacute;TEZ ARIZA, ANTONIO&nbsp;(I00038)</a>&nbsp;(11 Nov 1932 - 27 Abr 2017)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#1796396878"> tito_antonio.jpg</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">15</p>
+<p class="medlisttitle"><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_2.php#I00007'>BEN&Iacute;TEZ ARIZA, AURORA&nbsp;(I00007)</a>&nbsp;(12 Jul 1934 - 18 Feb 2000)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#1894189297"> mama.jpg</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">16</p>
+<p class="medlisttitle"><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_2.php#I00044'>BEN&Iacute;TEZ ARIZA, DOLORES&nbsp;(I00044)</a>&nbsp;(1946 - 28 Feb 2022)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#391953526"> la_mala.jpg</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="letter"><a id="C"></a>C</p>
+<div class="conteneur">
+<p class="medlist">17</p>
+<p class="medlisttitle"><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00002'>CHIVITE P&Eacute;REZ, JES&Uacute;S&nbsp;(I00002)</a>&nbsp;(7 Abr 1961)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#112263885"> CHIVITE P&Eacute;REZ, JES&Uacute;S (&deg;7 Abr 1961 +)</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">18</p>
+<p class="medlisttitle"><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00003'>CHIVITE RUANO, GERM&Aacute;N&nbsp;(I00003)</a>&nbsp;(5 May 1993)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#2078547442"> CHIVITE RUANO, GERM&Aacute;N (&deg;5 May 1993 +)</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">19</p>
+<p class="medlisttitle"><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_2.php#I00005'>CHIVITE RUANO, IN&Eacute;S&nbsp;(I00005)</a>&nbsp;(3 May 2002)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#864826111"> ines_2.jpg</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">20</p>
+<p class="medlisttitle"><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00004'>CHIVITE RUANO, MART&Iacute;N&nbsp;(I00004)</a>&nbsp;(4 Mar 1997)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#1103206388"> martin.jpg</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">21</p>
+<p class="medlisttitle"><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00045'>CORT&Eacute;S REPISO, FRANCISCO&nbsp;(I00045)</a>&nbsp;(13 Feb 1934 - 4 Ene 2014)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#1332236907"> tito_francisco.jpg</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="letter"><a id="R"></a>R</p>
+<div class="conteneur">
+<p class="medlist">22</p>
+<p class="medlisttitle"><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_4.php#I00034'>RUANO AGUILERA, JOSEFA&nbsp;(I00034)</a>&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#339271161"> RUANO AGUILERA, JOSEFA (&deg; +)</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">23</p>
+<p class="medlisttitle"><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_4.php#I00006'>RUANO ARIZA, ANTONIO&nbsp;(I00006)</a>&nbsp;(1 Ene 1927 - 11 Abr 2019)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#1190202955"> papa.jpg</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">24</p>
+<p class="medlisttitle"><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_4.php#I00027'>RUANO ARIZA, JOS&Eacute;&nbsp;(I00027)</a>&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#197287766"> tito_jose.jpeg</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">25</p>
+<p class="medlisttitle"><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_4.php#I00028'>RUANO ARIZA, JOSEFA&nbsp;(I00028)</a>&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#104120143"> RUANO ARIZA, JOSEFA (&deg; +)</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">26</p>
+<p class="medlisttitle"><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_4.php#I00026'>RUANO ARIZA, NICOL&Aacute;S&nbsp;(I00026)</a>&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#1412525413"> tito_nicolas.jpg</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">27</p>
+<p class="medlisttitle"><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_4.php#I00001'>RUANO BEN&Iacute;TEZ, ANA MAR&Iacute;A&nbsp;(I00001)</a>&nbsp;(19 May 1961)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#452768510"> RUANO BEN&Iacute;TEZ, ANA MAR&Iacute;A (&deg;19 May 1961 +)</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="conteneur">
+<p class="medlist">28</p>
+<p class="medlisttitle"><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_4.php#I00023'>RUANO MOYANO, NICOL&Aacute;S&nbsp;(I00023)</a>&nbsp;(1887)&nbsp;&nbsp;:&nbsp;&nbsp;<a href="media_1.php#56452632"> papa_nicolas.jpg</a></p><br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="media_0.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="media_0.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="media_0.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="media_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="media_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="media_0.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<p><a id="bot"></a>&nbsp;</p>
+
+<!-- END OF VARIABLE CONTENT -->
+
+<?php include("includes/awb_footer.php"); ?>

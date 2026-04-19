@@ -1,0 +1,1197 @@
+<?php chdir('..'); ?>
+<?php include("includes/awb_init.php"); ?>
+<!DOCTYPE html > 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" > 
+<head> 
+<title>Genealog&iacute;a RUANO-BEN&Iacute;TEZ&nbsp;-&nbsp;Detalles del calendario</title> 
+<meta charset="utf-8"> 
+<meta name="description" content="Genealog&iacute;a RUANO-BEN&Iacute;TEZ&nbsp;-&nbsp;Detalles del calendario " /> 
+<meta name="keywords" content="Généalogie, Genealogy, ancestors, ancêtres, descendance, famille, family tree, fredwebbook" /> 
+<meta name="author" content="ANA MAR&Iacute;A RUANO BEN&Iacute;TEZ" /> 
+<meta name="generator" content="Ancestris" /> 
+<meta name="robots" content="all" /> 
+<meta name="reply-to" content="ARUANO@UOC.EDU" /> 
+<meta name="owner" content="ANA MAR&Iacute;A RUANO BEN&Iacute;TEZ" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+
+<link rel="stylesheet" href="../theme/style.css" type="text/css"/>
+</head>
+<body>
+
+<!-- START OF VARIABLE CONTENT -->
+
+<div class="title"><a id="top">&nbsp;</a>Detalles del calendario</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="ENERO01"></a>01&nbsp;Enero</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>1 Ene 1927</span>
+<span>Nacimiento</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_4.php#I00006'>RUANO ARIZA, ANTONIO&nbsp;(I00006)</a>&nbsp;(1 Ene 1927 - 11 Abr 2019)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="ENERO02"></a>02&nbsp;Enero</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>2 Ene 1886</span>
+<span>Matrimonio</span>
+<span><img src='../theme/u.gif' alt='Sexo desconocido' />&nbsp;<a href='../details/personsdetails_2.php#I00100'>CABRERA MU&Ntilde;OZ, FRANCISCO&nbsp;(I00100)</a>&nbsp;(1859)&nbsp;+&nbsp;<a href='../details/personsdetails_2.php#I00094'>BEN&Iacute;TEZ HINOJOSA, MAR&Iacute;A AURORA&nbsp;(I00094)</a>&nbsp;(1864)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="ENERO04"></a>04&nbsp;Enero</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>4 Ene 2014</span>
+<span>&Oacute;bito</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00045'>CORT&Eacute;S REPISO, FRANCISCO&nbsp;(I00045)</a>&nbsp;(13 Feb 1934 - 4 Ene 2014)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="ENERO09"></a>09&nbsp;Enero</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>9 Ene 1932</span>
+<span>Matrimonio</span>
+<span><img src='../theme/u.gif' alt='Sexo desconocido' />&nbsp;<a href='../details/personsdetails_2.php#I00039'>BEN&Iacute;TEZ ARIAS, JOS&Eacute; (GONZALO)&nbsp;(I00039)</a>&nbsp;(13 Oct 1899 - 20 Feb 1991)&nbsp;+&nbsp;<a href='../details/personsdetails_1.php#I00040'>ARIZA ARIZA, CONCEPCI&Oacute;N&nbsp;(I00040)</a>&nbsp;(23 Oct 1907 - 31 Ene 1975)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="ENERO10"></a>10&nbsp;Enero</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>10 Ene 1935</span>
+<span>Nacimiento</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_3.php#I00009'>P&Eacute;REZ AYALA, ANA MAR&Iacute;A&nbsp;(I00009)</a>&nbsp;(10 Ene 1935 - 28 May 2023)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="ENERO31"></a>31&nbsp;Enero</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>31 Ene 1975</span>
+<span>&Oacute;bito</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_1.php#I00040'>ARIZA ARIZA, CONCEPCI&Oacute;N&nbsp;(I00040)</a>&nbsp;(23 Oct 1907 - 31 Ene 1975)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="FEBRERO02"></a>02&nbsp;Febrero</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>2 Feb 1995</span>
+<span>Nacimiento</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_3.php#I00011'>HERN&Aacute;NDEZ CHIVITE, ADRI&Aacute;N&nbsp;(I00011)</a>&nbsp;(2 Feb 1995)</span>
+</span>
+<span class="dayline">
+<span>2 Feb 1995</span>
+<span>Nacimiento</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_3.php#I00021'>HERN&Aacute;NDEZ CHIVITE, ADRI&Aacute;N&nbsp;(I00021)</a>&nbsp;(2 Feb 1995)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="FEBRERO13"></a>13&nbsp;Febrero</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>13 Feb 1934</span>
+<span>Nacimiento</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00045'>CORT&Eacute;S REPISO, FRANCISCO&nbsp;(I00045)</a>&nbsp;(13 Feb 1934 - 4 Ene 2014)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="FEBRERO18"></a>18&nbsp;Febrero</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>18 Feb 2000</span>
+<span>&Oacute;bito</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_2.php#I00007'>BEN&Iacute;TEZ ARIZA, AURORA&nbsp;(I00007)</a>&nbsp;(12 Jul 1934 - 18 Feb 2000)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="FEBRERO20"></a>20&nbsp;Febrero</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>20 Feb 1991</span>
+<span>&Oacute;bito</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00039'>BEN&Iacute;TEZ ARIAS, JOS&Eacute; (GONZALO)&nbsp;(I00039)</a>&nbsp;(13 Oct 1899 - 20 Feb 1991)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="FEBRERO28"></a>28&nbsp;Febrero</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>28 Feb 2022</span>
+<span>&Oacute;bito</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_2.php#I00044'>BEN&Iacute;TEZ ARIZA, DOLORES&nbsp;(I00044)</a>&nbsp;(1946 - 28 Feb 2022)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="MARZO03"></a>03&nbsp;Marzo</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>3 Mar 1930</span>
+<span>Nacimiento</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_1.php#I00119'>ARIZA ARIZA, TERESA&nbsp;(I00119)</a>&nbsp;(3 Mar 1930)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="MARZO04"></a>04&nbsp;Marzo</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>4 Mar 1997</span>
+<span>Nacimiento</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00004'>CHIVITE RUANO, MART&Iacute;N&nbsp;(I00004)</a>&nbsp;(4 Mar 1997)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="ABRIL06"></a>06&nbsp;Abril</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>6 Abr 2015</span>
+<span>Nacimiento</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00018'>DUR&Aacute;N CHIVITE, ABEL&nbsp;(I00018)</a>&nbsp;(6 Abr 2015)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="ABRIL07"></a>07&nbsp;Abril</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>7 Abr 1961</span>
+<span>Nacimiento</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00002'>CHIVITE P&Eacute;REZ, JES&Uacute;S&nbsp;(I00002)</a>&nbsp;(7 Abr 1961)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="ABRIL11"></a>11&nbsp;Abril</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>11 Abr 2019</span>
+<span>&Oacute;bito</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_4.php#I00006'>RUANO ARIZA, ANTONIO&nbsp;(I00006)</a>&nbsp;(1 Ene 1927 - 11 Abr 2019)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="ABRIL20"></a>20&nbsp;Abril</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>20 Abr 2006</span>
+<span>Nacimiento</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_3.php#I00015'>DUR&Aacute;N CHIVITE, MIREIA&nbsp;(I00015)</a>&nbsp;(20 Abr 2006)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="ABRIL27"></a>27&nbsp;Abril</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>27 Abr 2017</span>
+<span>&Oacute;bito</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00038'>BEN&Iacute;TEZ ARIZA, ANTONIO&nbsp;(I00038)</a>&nbsp;(11 Nov 1932 - 27 Abr 2017)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="ABRIL29"></a>29&nbsp;Abril</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>29 Abr 1978</span>
+<span>Nacimiento</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_2.php#I00014'>CHIVITE P&Eacute;REZ, BEGO&Ntilde;A&nbsp;(I00014)</a>&nbsp;(29 Abr 1978)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="ABRIL30"></a>30&nbsp;Abril</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>30 Abr 1960</span>
+<span>Matrimonio</span>
+<span><img src='../theme/u.gif' alt='Sexo desconocido' />&nbsp;<a href='../details/personsdetails_4.php#I00006'>RUANO ARIZA, ANTONIO&nbsp;(I00006)</a>&nbsp;(1 Ene 1927 - 11 Abr 2019)&nbsp;+&nbsp;<a href='../details/personsdetails_2.php#I00007'>BEN&Iacute;TEZ ARIZA, AURORA&nbsp;(I00007)</a>&nbsp;(12 Jul 1934 - 18 Feb 2000)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="MAYO03"></a>03&nbsp;Mayo</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>3 May 1985</span>
+<span>Matrimonio</span>
+<span><img src='../theme/u.gif' alt='Sexo desconocido' />&nbsp;<a href='../details/personsdetails_2.php#I00002'>CHIVITE P&Eacute;REZ, JES&Uacute;S&nbsp;(I00002)</a>&nbsp;(7 Abr 1961)&nbsp;+&nbsp;<a href='../details/personsdetails_4.php#I00001'>RUANO BEN&Iacute;TEZ, ANA MAR&Iacute;A&nbsp;(I00001)</a>&nbsp;(19 May 1961)</span>
+</span>
+<span class="dayline">
+<span>3 May 2002</span>
+<span>Nacimiento</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_2.php#I00005'>CHIVITE RUANO, IN&Eacute;S&nbsp;(I00005)</a>&nbsp;(3 May 2002)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="MAYO04"></a>04&nbsp;Mayo</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>4 May 2007</span>
+<span>Nacimiento</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00017'>DUR&Aacute;N CHIVITE, JORGE&nbsp;(I00017)</a>&nbsp;(4 May 2007)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="MAYO05"></a>05&nbsp;Mayo</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>5 May 1993</span>
+<span>Nacimiento</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00003'>CHIVITE RUANO, GERM&Aacute;N&nbsp;(I00003)</a>&nbsp;(5 May 1993)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="MAYO11"></a>11&nbsp;Mayo</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>11 May 1969</span>
+<span>Matrimonio</span>
+<span><img src='../theme/u.gif' alt='Sexo desconocido' />&nbsp;<a href='../details/personsdetails_2.php#I00045'>CORT&Eacute;S REPISO, FRANCISCO&nbsp;(I00045)</a>&nbsp;(13 Feb 1934 - 4 Ene 2014)&nbsp;+&nbsp;<a href='../details/personsdetails_2.php#I00043'>BEN&Iacute;TEZ ARIZA, ADELA&nbsp;(I00043)</a>&nbsp;(7 Nov 1938 - 20 Nov 2021)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="MAYO19"></a>19&nbsp;Mayo</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>19 May 1961</span>
+<span>Nacimiento</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_4.php#I00001'>RUANO BEN&Iacute;TEZ, ANA MAR&Iacute;A&nbsp;(I00001)</a>&nbsp;(19 May 1961)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="MAYO28"></a>28&nbsp;Mayo</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>28 May 2023</span>
+<span>&Oacute;bito</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_3.php#I00009'>P&Eacute;REZ AYALA, ANA MAR&Iacute;A&nbsp;(I00009)</a>&nbsp;(10 Ene 1935 - 28 May 2023)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="JUNIO06"></a>06&nbsp;Junio</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>6 Jun 1907</span>
+<span>Nacimiento</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00104'>BEN&Iacute;TEZ ARIAS, ANTONIO DEMETRIO&nbsp;(I00104)</a>&nbsp;(6 Jun 1907 - 21 Jul 1936)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="JUNIO09"></a>09&nbsp;Junio</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>9 Jun 1962</span>
+<span>Nacimiento</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_2.php#I00020'>CHIVITE P&Eacute;REZ, ANA MAR&Iacute;A&nbsp;(I00020)</a>&nbsp;(9 Jun 1962)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="JUNIO10"></a>10&nbsp;Junio</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>10 Jun 1918</span>
+<span>Matrimonio</span>
+<span><img src='../theme/u.gif' alt='Sexo desconocido' />&nbsp;<a href='../details/personsdetails_4.php#I00023'>RUANO MOYANO, NICOL&Aacute;S&nbsp;(I00023)</a>&nbsp;(1887)&nbsp;+&nbsp;<a href='../details/personsdetails_1.php#I00024'>ARIZA MOYANO, ANA&nbsp;(I00024)</a>&nbsp;(1894 - Ene 1985)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="JUNIO11"></a>11&nbsp;Junio</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>11 Jun 1961</span>
+<span>Bautizo</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_4.php#I00001'>RUANO BEN&Iacute;TEZ, ANA MAR&Iacute;A&nbsp;(I00001)</a>&nbsp;(19 May 1961)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="JUNIO16"></a>16&nbsp;Junio</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>16 Jun 1960</span>
+<span>Matrimonio</span>
+<span><img src='../theme/u.gif' alt='Sexo desconocido' />&nbsp;<a href='../details/personsdetails_2.php#I00008'>CHIVITE BEA, TEODORO&nbsp;(I00008)</a>&nbsp;(26 Dic 1932 - 7 Dic 2012)&nbsp;+&nbsp;<a href='../details/personsdetails_3.php#I00009'>P&Eacute;REZ AYALA, ANA MAR&Iacute;A&nbsp;(I00009)</a>&nbsp;(10 Ene 1935 - 28 May 2023)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="JULIO12"></a>12&nbsp;Julio</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>12 Jul 1934</span>
+<span>Nacimiento</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_2.php#I00007'>BEN&Iacute;TEZ ARIZA, AURORA&nbsp;(I00007)</a>&nbsp;(12 Jul 1934 - 18 Feb 2000)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="JULIO21"></a>21&nbsp;Julio</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>21 Jul 1936</span>
+<span>&Oacute;bito</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00104'>BEN&Iacute;TEZ ARIAS, ANTONIO DEMETRIO&nbsp;(I00104)</a>&nbsp;(6 Jun 1907 - 21 Jul 1936)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="JULIO31"></a>31&nbsp;Julio</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>31 Jul 1872</span>
+<span>Nacimiento</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00091'>BEN&Iacute;TEZ HINOJOSA, JUAN ANTONIO DE SAN IGNACIO&nbsp;(I00091)</a>&nbsp;(31 Jul 1872)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="AGOSTO31"></a>31&nbsp;Agosto</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>31 Ago 2021</span>
+<span>Jubilaci&oacute;n</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_4.php#I00001'>RUANO BEN&Iacute;TEZ, ANA MAR&Iacute;A&nbsp;(I00001)</a>&nbsp;(19 May 1961)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="OCTUBRE13"></a>13&nbsp;Octubre</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>13 Oct 1899</span>
+<span>Nacimiento</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00039'>BEN&Iacute;TEZ ARIAS, JOS&Eacute; (GONZALO)&nbsp;(I00039)</a>&nbsp;(13 Oct 1899 - 20 Feb 1991)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="OCTUBRE23"></a>23&nbsp;Octubre</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>23 Oct 1907</span>
+<span>Nacimiento</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_1.php#I00040'>ARIZA ARIZA, CONCEPCI&Oacute;N&nbsp;(I00040)</a>&nbsp;(23 Oct 1907 - 31 Ene 1975)</span>
+</span>
+<span class="dayline">
+<span>23 Oct 1967</span>
+<span>Nacimiento</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00013'>CHIVITE P&Eacute;REZ, FERM&Iacute;N&nbsp;(I00013)</a>&nbsp;(23 Oct 1967)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="NOVIEMBRE07"></a>07&nbsp;Noviembre</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>7 Nov 1938</span>
+<span>Nacimiento</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_2.php#I00043'>BEN&Iacute;TEZ ARIZA, ADELA&nbsp;(I00043)</a>&nbsp;(7 Nov 1938 - 20 Nov 2021)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="NOVIEMBRE11"></a>11&nbsp;Noviembre</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>11 Nov 1932</span>
+<span>Nacimiento</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00038'>BEN&Iacute;TEZ ARIZA, ANTONIO&nbsp;(I00038)</a>&nbsp;(11 Nov 1932 - 27 Abr 2017)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="NOVIEMBRE20"></a>20&nbsp;Noviembre</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>20 Nov 2021</span>
+<span>&Oacute;bito</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_2.php#I00043'>BEN&Iacute;TEZ ARIZA, ADELA&nbsp;(I00043)</a>&nbsp;(7 Nov 1938 - 20 Nov 2021)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="NOVIEMBRE23"></a>23&nbsp;Noviembre</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>23 Nov 1885</span>
+<span>Nacimiento</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>&nbsp;(23 Nov 1885 - 1962)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="DICIEMBRE07"></a>07&nbsp;Diciembre</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>7 Dic 2012</span>
+<span>&Oacute;bito</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00008'>CHIVITE BEA, TEODORO&nbsp;(I00008)</a>&nbsp;(26 Dic 1932 - 7 Dic 2012)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="DICIEMBRE26"></a>26&nbsp;Diciembre</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>26 Dic 1932</span>
+<span>Nacimiento</span>
+<span><img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='../details/personsdetails_2.php#I00008'>CHIVITE BEA, TEODORO&nbsp;(I00008)</a>&nbsp;(26 Dic 1932 - 7 Dic 2012)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="unk"><a id="DICIEMBRE28"></a>28&nbsp;Diciembre</h2>
+<div class="daycont">
+<span class="dayhead">
+<span>Fecha</span>
+<span>Eventos</span>
+<span>Individuo</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<span class="dayline">
+<span>28 Dic 1926</span>
+<span>Nacimiento</span>
+<span><img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='../details/personsdetails_1.php#I00118'>ARIZA ARIZA, DOLORES&nbsp;(I00118)</a>&nbsp;(28 Dic 1926)</span>
+</span>
+<span class="spacer">&nbsp;</span>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="daysdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="daysdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="daysdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="daysdetails_1.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="daysdetails_1.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="daysdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<p><a id="bot"></a>&nbsp;</p>
+
+<!-- END OF VARIABLE CONTENT -->
+
+<?php include("includes/awb_footer.php"); ?>

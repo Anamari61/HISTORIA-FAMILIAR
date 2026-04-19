@@ -1,0 +1,5599 @@
+<?php chdir('..'); ?>
+<?php include("includes/awb_init.php"); ?>
+<!DOCTYPE html > 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" > 
+<head> 
+<title>Genealog&iacute;a RUANO-BEN&Iacute;TEZ&nbsp;-&nbsp;Detalles de los individuos</title> 
+<meta charset="utf-8"> 
+<meta name="description" content="Genealog&iacute;a RUANO-BEN&Iacute;TEZ&nbsp;-&nbsp;Detalles de los individuos " /> 
+<meta name="keywords" content="Généalogie, Genealogy, ancestors, ancêtres, descendance, famille, family tree, fredwebbook" /> 
+<meta name="author" content="ANA MAR&Iacute;A RUANO BEN&Iacute;TEZ" /> 
+<meta name="generator" content="Ancestris" /> 
+<meta name="robots" content="all" /> 
+<meta name="reply-to" content="ARUANO@UOC.EDU" /> 
+<meta name="owner" content="ANA MAR&Iacute;A RUANO BEN&Iacute;TEZ" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+
+<link rel="stylesheet" href="../theme/style.css" type="text/css"/>
+</head>
+<body>
+
+<!-- START OF VARIABLE CONTENT -->
+
+<div class="title"><a id="top">&nbsp;</a>Detalles de los individuos</div>
+<script>
+<!--
+function popup(sText)
+{
+window.open( "popupemail.htm?"+sText, '', 'HEIGHT=650,WIDTH=620,toolbar=0,status=0,menubar=0');
+}
+//-->
+</script>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00033"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+AGUILERA, ANA&nbsp;(I00033)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"AGUILERA, ANA (&deg; +) (I00033)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>   Afirmado<br /><img src='../theme/ev_deat.png' alt='' /><span class='gras'>  Óbito: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+?
+<br />
+
+</p>
+<p class="parentp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00033'>AGUILERA, ANA&nbsp;(I00033)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/m.gif' alt='Hombre' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_4.php#I00026'>RUANO ARIZA, NICOL&Aacute;S&nbsp;(I00026)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_4.php#I00034'>RUANO AGUILERA, JOSEFA&nbsp;(I00034)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_4.php#I00035'>RUANO AGUILERA, NICOL&Aacute;S&nbsp;(I00035)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_4.php#I00036'>RUANO AGUILERA, ARACELI&nbsp;(I00036)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_4.php#I00037'>RUANO AGUILERA, CAMILO&nbsp;(I00037)</a>&nbsp;(1967)
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00129"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+AGUILERA, DOLORES&nbsp;(I00129)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"AGUILERA, DOLORES (&deg; +) (I00129)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>   Afirmado<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+?
+<br />
+
+</p>
+<p class="parentp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00129'>AGUILERA, DOLORES&nbsp;(I00129)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/m.gif' alt='Hombre' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_1.php#I00116'>ARIZA ARIZA, MANUEL&nbsp;(I00116)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00130'>ARIZA AGUILERA, ARACELI&nbsp;(I00130)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00131'>ARIZA AGUILERA, MANUEL&nbsp;(I00131)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00132'>ARIZA AGUILERA, FELIPE&nbsp;(I00132)</a>
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00101"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARIAS CARRILLO, ADELA&nbsp;(I00101)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIAS CARRILLO, ADELA (&deg; +) (I00101)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    BAENA  CÓRDOBA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00102'>ARIAS RODR&Iacute;GUEZ, DEMETRIO&nbsp;(I00102)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_2.php#I00103'>CARRILLO HURTADO, EMILIA&nbsp;(I00103)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00101'>ARIAS CARRILLO, ADELA&nbsp;(I00101)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/m.gif' alt='Hombre' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_2.php#I00091'>BEN&Iacute;TEZ HINOJOSA, JUAN ANTONIO DE SAN IGNACIO&nbsp;(I00091)</a>
+&nbsp;(31 Jul 1872)
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_2.php#I00105'>BEN&Iacute;TEZ ARIAS, EMILIO&nbsp;(I00105)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_2.php#I00106'>BEN&Iacute;TEZ ARIAS, CONCEPCI&Oacute;N&nbsp;(I00106)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_2.php#I00107'>BEN&Iacute;TEZ ARIAS, ADELAIDA&nbsp;(I00107)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_2.php#I00108'>BEN&Iacute;TEZ ARIAS, AURORA&nbsp;(I00108)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_2.php#I00109'>BEN&Iacute;TEZ ARIAS, FRANCISCO&nbsp;(I00109)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_2.php#I00110'>BEN&Iacute;TEZ ARIAS, ISABEL&nbsp;(I00110)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_2.php#I00039'>BEN&Iacute;TEZ ARIAS, JOS&Eacute; (GONZALO)&nbsp;(I00039)</a>&nbsp;(13 Oct 1899 - 20 Feb 1991)
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_2.php#I00104'>BEN&Iacute;TEZ ARIAS, ANTONIO DEMETRIO&nbsp;(I00104)</a>&nbsp;(6 Jun 1907 - 21 Jul 1936)
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00102"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIAS RODR&Iacute;GUEZ, DEMETRIO&nbsp;(I00102)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIAS RODR&Iacute;GUEZ, DEMETRIO (&deg; +) (I00102)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    AGUILAR DE LA FRONTERA  CÓRDOBA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+?
+<br />
+
+</p>
+<p class="parentp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00102'>ARIAS RODR&Iacute;GUEZ, DEMETRIO&nbsp;(I00102)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_2.php#I00103'>CARRILLO HURTADO, EMILIA&nbsp;(I00103)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00101'>ARIAS CARRILLO, ADELA&nbsp;(I00101)</a>
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00133"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARIZA, ANA&nbsp;(I00133)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA, ANA (&deg; +) (I00133)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    RUTE  CÓRDOBA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>
+<br />
+&nbsp;23 Nov 1885 - 1962
+</p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>
+<br />
+&nbsp;1882 - May 1974
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00117'>ARIZA ARIZA, ANTONIO&nbsp;(I00117)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_4.php#I00134'>_, &nbsp;(I00134)</a>
+<br />
+&nbsp;?
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00133'>ARIZA, ANA&nbsp;(I00133)</a>
+</span><br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00135'>ARIZA, MANUELA&nbsp;(I00135)</a>
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00124"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARIZA, DOLORES&nbsp;(I00124)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA, DOLORES (&deg; +) (I00124)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br /><img src='../theme/ev_deat.png' alt='' /><span class='gras'>  Óbito: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>
+<br />
+&nbsp;23 Nov 1885 - 1962
+</p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>
+<br />
+&nbsp;1882 - May 1974
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00114'>ARIZA ARIZA, FRANCISCO&nbsp;(I00114)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_4.php#I00125'>_, &nbsp;(I00125)</a>
+<br />
+&nbsp;?
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00124'>ARIZA, DOLORES&nbsp;(I00124)</a>
+</span><br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00126'>ARIZA, MERCEDES&nbsp;(I00126)</a>
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00135"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARIZA, MANUELA&nbsp;(I00135)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA, MANUELA (&deg; +) (I00135)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    RUTE  CÓRDOBA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>
+<br />
+&nbsp;23 Nov 1885 - 1962
+</p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>
+<br />
+&nbsp;1882 - May 1974
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00117'>ARIZA ARIZA, ANTONIO&nbsp;(I00117)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_4.php#I00134'>_, &nbsp;(I00134)</a>
+<br />
+&nbsp;?
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00133'>ARIZA, ANA&nbsp;(I00133)</a>
+<br />
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00135'>ARIZA, MANUELA&nbsp;(I00135)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00128"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARIZA, MAR&Iacute;A DOLORES&nbsp;(I00128)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA, MAR&Iacute;A DOLORES (&deg; +) (I00128)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>
+<br />
+&nbsp;23 Nov 1885 - 1962
+</p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>
+<br />
+&nbsp;1882 - May 1974
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00115'>ARIZA ARIZA, IGNACIO&nbsp;(I00115)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_4.php#I00127'>_, MAR&Iacute;A&nbsp;(I00127)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00128'>ARIZA, MAR&Iacute;A DOLORES&nbsp;(I00128)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00126"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARIZA, MERCEDES&nbsp;(I00126)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA, MERCEDES (&deg; +) (I00126)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br /><img src='../theme/ev_deat.png' alt='' /><span class='gras'>  Óbito: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>
+<br />
+&nbsp;23 Nov 1885 - 1962
+</p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>
+<br />
+&nbsp;1882 - May 1974
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00114'>ARIZA ARIZA, FRANCISCO&nbsp;(I00114)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_4.php#I00125'>_, &nbsp;(I00125)</a>
+<br />
+&nbsp;?
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00124'>ARIZA, DOLORES&nbsp;(I00124)</a>
+<br />
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00126'>ARIZA, MERCEDES&nbsp;(I00126)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00130"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARIZA AGUILERA, ARACELI&nbsp;(I00130)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA AGUILERA, ARACELI (&deg; +) (I00130)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>   Afirmado<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>
+<br />
+&nbsp;23 Nov 1885 - 1962
+</p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>
+<br />
+&nbsp;1882 - May 1974
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00116'>ARIZA ARIZA, MANUEL&nbsp;(I00116)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_1.php#I00129'>AGUILERA, DOLORES&nbsp;(I00129)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00130'>ARIZA AGUILERA, ARACELI&nbsp;(I00130)</a>
+</span><br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00131'>ARIZA AGUILERA, MANUEL&nbsp;(I00131)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00132'>ARIZA AGUILERA, FELIPE&nbsp;(I00132)</a>
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00132"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA AGUILERA, FELIPE&nbsp;(I00132)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA AGUILERA, FELIPE (&deg; +) (I00132)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>   Afirmado<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>
+<br />
+&nbsp;23 Nov 1885 - 1962
+</p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>
+<br />
+&nbsp;1882 - May 1974
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00116'>ARIZA ARIZA, MANUEL&nbsp;(I00116)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_1.php#I00129'>AGUILERA, DOLORES&nbsp;(I00129)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00130'>ARIZA AGUILERA, ARACELI&nbsp;(I00130)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00131'>ARIZA AGUILERA, MANUEL&nbsp;(I00131)</a>
+<br />
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00132'>ARIZA AGUILERA, FELIPE&nbsp;(I00132)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00131"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA AGUILERA, MANUEL&nbsp;(I00131)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA AGUILERA, MANUEL (&deg; +) (I00131)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>   Afirmado<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>
+<br />
+&nbsp;23 Nov 1885 - 1962
+</p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>
+<br />
+&nbsp;1882 - May 1974
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00116'>ARIZA ARIZA, MANUEL&nbsp;(I00116)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_1.php#I00129'>AGUILERA, DOLORES&nbsp;(I00129)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00130'>ARIZA AGUILERA, ARACELI&nbsp;(I00130)</a>
+<br />
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00131'>ARIZA AGUILERA, MANUEL&nbsp;(I00131)</a>
+</span><br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00132'>ARIZA AGUILERA, FELIPE&nbsp;(I00132)</a>
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00117"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA ARIZA, ANTONIO&nbsp;(I00117)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA ARIZA, ANTONIO (&deg; +) (I00117)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br /><img src='../theme/ev_deat.png' alt='' /><span class='gras'>  Óbito: </span>    RUTE  CÓRDOBA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00075'>ARIZA RUANO, ANTONIO IGNACIO&nbsp;(I00075)</a>
+<br />
+&nbsp;1851
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00076'>BURGOS L&Oacute;PEZ, CONCEPCI&Oacute;N&nbsp;(I00076)</a>
+<br />
+&nbsp;1857
+</p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00112'>ARIZA RUANO, FRANCISCO&nbsp;(I00112)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00113'>BEN&Iacute;TEZ BLANCO, MAR&Iacute;A&nbsp;(I00113)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>
+<br />
+&nbsp;23 Nov 1885 - 1962
+</p>
+<p class="parentp">
+<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>
+<br />
+&nbsp;1882 - May 1974
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00114'>ARIZA ARIZA, FRANCISCO&nbsp;(I00114)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00115'>ARIZA ARIZA, IGNACIO&nbsp;(I00115)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00116'>ARIZA ARIZA, MANUEL&nbsp;(I00116)</a>
+<br />
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00117'>ARIZA ARIZA, ANTONIO&nbsp;(I00117)</a>
+</span><br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00040'>ARIZA ARIZA, CONCEPCI&Oacute;N&nbsp;(I00040)</a>&nbsp;(23 Oct 1907 - 31 Ene 1975)
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00118'>ARIZA ARIZA, DOLORES&nbsp;(I00118)</a>&nbsp;(28 Dic 1926)
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00119'>ARIZA ARIZA, TERESA&nbsp;(I00119)</a>&nbsp;(3 Mar 1930)
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_4.php#I00134'>_, &nbsp;(I00134)</a>
+&nbsp;(?)
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00133'>ARIZA, ANA&nbsp;(I00133)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00135'>ARIZA, MANUELA&nbsp;(I00135)</a>
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00040"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARIZA ARIZA, CONCEPCI&Oacute;N&nbsp;(I00040)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA ARIZA, CONCEPCI&Oacute;N (&deg;23 Oct 1907 +31 Ene 1975) (I00040)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span> 23 Oct 1907 :  CUEVAS DE SAN MARCOS  MÁLAGA<br /><img src='../theme/ev_occu.png' alt='' /><span class='gras'>  Ocupación: </span>   AMA DE CASA<br /><img src='../theme/ev_deat.png' alt='' /><span class='gras'>  Óbito: </span> 31 Ene 1975 :  CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<p class="image">
+<a class='tooltip' href="../media/media_1.php#2115323867" ><img alt=' mama_ton2.jpg' title=' mama_ton2.jpg' src='../media/mini_users/usuario/desktop/genealogia_ancestris/fotos_ancestris/mama_ton2.jpg' /><span><b> mama_ton2.jpg</b><br /><i></i></span></a>
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00075'>ARIZA RUANO, ANTONIO IGNACIO&nbsp;(I00075)</a>
+<br />
+&nbsp;1851
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00076'>BURGOS L&Oacute;PEZ, CONCEPCI&Oacute;N&nbsp;(I00076)</a>
+<br />
+&nbsp;1857
+</p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00112'>ARIZA RUANO, FRANCISCO&nbsp;(I00112)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00113'>BEN&Iacute;TEZ BLANCO, MAR&Iacute;A&nbsp;(I00113)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>
+<br />
+&nbsp;23 Nov 1885 - 1962
+</p>
+<p class="parentp">
+<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>
+<br />
+&nbsp;1882 - May 1974
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00114'>ARIZA ARIZA, FRANCISCO&nbsp;(I00114)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00115'>ARIZA ARIZA, IGNACIO&nbsp;(I00115)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00116'>ARIZA ARIZA, MANUEL&nbsp;(I00116)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00117'>ARIZA ARIZA, ANTONIO&nbsp;(I00117)</a>
+<br />
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00040'>ARIZA ARIZA, CONCEPCI&Oacute;N&nbsp;(I00040)</a>&nbsp;(23 Oct 1907 - 31 Ene 1975)
+</span><br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00118'>ARIZA ARIZA, DOLORES&nbsp;(I00118)</a>&nbsp;(28 Dic 1926)
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00119'>ARIZA ARIZA, TERESA&nbsp;(I00119)</a>&nbsp;(3 Mar 1930)
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/m.gif' alt='Hombre' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_2.php#I00039'>BEN&Iacute;TEZ ARIAS, JOS&Eacute; (GONZALO)&nbsp;(I00039)</a>
+&nbsp;(13 Oct 1899 - 20 Feb 1991)
+<br />
+<img src='../theme/ev_marr.png' alt='' /><span class='gras'>  Matrimonio: </span> 9 Ene 1932 :  CUEVAS DE SAN MARCOS  MÁLAGA<br />
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_2.php#I00041'>BEN&Iacute;TEZ ARIZA, SILVERIO&nbsp;(I00041)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_2.php#I00042'>BEN&Iacute;TEZ ARIZA, FRANCISCO&nbsp;(I00042)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_2.php#I00038'>BEN&Iacute;TEZ ARIZA, ANTONIO&nbsp;(I00038)</a>&nbsp;(11 Nov 1932 - 27 Abr 2017)
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_2.php#I00007'>BEN&Iacute;TEZ ARIZA, AURORA&nbsp;(I00007)</a>&nbsp;(12 Jul 1934 - 18 Feb 2000)
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_2.php#I00043'>BEN&Iacute;TEZ ARIZA, ADELA&nbsp;(I00043)</a>&nbsp;(7 Nov 1938 - 20 Nov 2021)
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_2.php#I00044'>BEN&Iacute;TEZ ARIZA, DOLORES&nbsp;(I00044)</a>&nbsp;(1946 - 28 Feb 2022)
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00118"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARIZA ARIZA, DOLORES&nbsp;(I00118)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA ARIZA, DOLORES (&deg;28 Dic 1926 +) (I00118)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span> 28 Dic 1926 :  CUEVAS DE SAN MARCOS  MÁLAGA<br /><img src='../theme/ev_deat.png' alt='' /><span class='gras'>  Óbito: </span>    MONCADA  VALENCIA<br />
+<br />
+</p>
+<p class="image">
+<a class='tooltip' href="../media/media_1.php#500458454" ><img alt=' ARIZA ARIZA, DOLORES (&deg; +)' title=' ARIZA ARIZA, DOLORES (&deg; +)' src='../media/mini_users/usuario/desktop/genealogia_ancestris/fotos_ancestris/tita_monja.jpg' /><span><b> ARIZA ARIZA, DOLORES (&deg; +)</b><br /><i></i></span></a>
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00075'>ARIZA RUANO, ANTONIO IGNACIO&nbsp;(I00075)</a>
+<br />
+&nbsp;1851
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00076'>BURGOS L&Oacute;PEZ, CONCEPCI&Oacute;N&nbsp;(I00076)</a>
+<br />
+&nbsp;1857
+</p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00112'>ARIZA RUANO, FRANCISCO&nbsp;(I00112)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00113'>BEN&Iacute;TEZ BLANCO, MAR&Iacute;A&nbsp;(I00113)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>
+<br />
+&nbsp;23 Nov 1885 - 1962
+</p>
+<p class="parentp">
+<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>
+<br />
+&nbsp;1882 - May 1974
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00114'>ARIZA ARIZA, FRANCISCO&nbsp;(I00114)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00115'>ARIZA ARIZA, IGNACIO&nbsp;(I00115)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00116'>ARIZA ARIZA, MANUEL&nbsp;(I00116)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00117'>ARIZA ARIZA, ANTONIO&nbsp;(I00117)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00040'>ARIZA ARIZA, CONCEPCI&Oacute;N&nbsp;(I00040)</a>&nbsp;(23 Oct 1907 - 31 Ene 1975)
+<br />
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00118'>ARIZA ARIZA, DOLORES&nbsp;(I00118)</a>&nbsp;(28 Dic 1926)
+</span><br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00119'>ARIZA ARIZA, TERESA&nbsp;(I00119)</a>&nbsp;(3 Mar 1930)
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00114"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA ARIZA, FRANCISCO&nbsp;(I00114)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA ARIZA, FRANCISCO (&deg; +) (I00114)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br /><img src='../theme/ev_deat.png' alt='' /><span class='gras'>  Óbito: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<p class="image">
+<a class='tooltip' href="../media/media_1.php#1526076284" ><img alt=' frasquito.jpg' title=' frasquito.jpg' src='../media/mini_users/usuario/desktop/genealogia_ancestris/fotos_ancestris/frasquito.jpg' /><span><b> frasquito.jpg</b><br /><i></i></span></a>
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00075'>ARIZA RUANO, ANTONIO IGNACIO&nbsp;(I00075)</a>
+<br />
+&nbsp;1851
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00076'>BURGOS L&Oacute;PEZ, CONCEPCI&Oacute;N&nbsp;(I00076)</a>
+<br />
+&nbsp;1857
+</p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00112'>ARIZA RUANO, FRANCISCO&nbsp;(I00112)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00113'>BEN&Iacute;TEZ BLANCO, MAR&Iacute;A&nbsp;(I00113)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>
+<br />
+&nbsp;23 Nov 1885 - 1962
+</p>
+<p class="parentp">
+<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>
+<br />
+&nbsp;1882 - May 1974
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00114'>ARIZA ARIZA, FRANCISCO&nbsp;(I00114)</a>
+</span><br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00115'>ARIZA ARIZA, IGNACIO&nbsp;(I00115)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00116'>ARIZA ARIZA, MANUEL&nbsp;(I00116)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00117'>ARIZA ARIZA, ANTONIO&nbsp;(I00117)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00040'>ARIZA ARIZA, CONCEPCI&Oacute;N&nbsp;(I00040)</a>&nbsp;(23 Oct 1907 - 31 Ene 1975)
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00118'>ARIZA ARIZA, DOLORES&nbsp;(I00118)</a>&nbsp;(28 Dic 1926)
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00119'>ARIZA ARIZA, TERESA&nbsp;(I00119)</a>&nbsp;(3 Mar 1930)
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_4.php#I00125'>_, &nbsp;(I00125)</a>
+&nbsp;(?)
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00124'>ARIZA, DOLORES&nbsp;(I00124)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00126'>ARIZA, MERCEDES&nbsp;(I00126)</a>
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00115"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA ARIZA, IGNACIO&nbsp;(I00115)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA ARIZA, IGNACIO (&deg; +) (I00115)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br /><img src='../theme/ev_deat.png' alt='' /><span class='gras'>  Óbito: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<p class="image">
+<a class='tooltip' href="../media/media_1.php#877299061" ><img alt=' ARIZA ARIZA, IGNACIO (&deg; +)' title=' ARIZA ARIZA, IGNACIO (&deg; +)' src='../media/mini_users/usuario/desktop/genealogia_ancestris/fotos_ancestris/tito_ignacio.jpg' /><span><b> ARIZA ARIZA, IGNACIO (&deg; +)</b><br /><i></i></span></a>
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00075'>ARIZA RUANO, ANTONIO IGNACIO&nbsp;(I00075)</a>
+<br />
+&nbsp;1851
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00076'>BURGOS L&Oacute;PEZ, CONCEPCI&Oacute;N&nbsp;(I00076)</a>
+<br />
+&nbsp;1857
+</p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00112'>ARIZA RUANO, FRANCISCO&nbsp;(I00112)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00113'>BEN&Iacute;TEZ BLANCO, MAR&Iacute;A&nbsp;(I00113)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>
+<br />
+&nbsp;23 Nov 1885 - 1962
+</p>
+<p class="parentp">
+<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>
+<br />
+&nbsp;1882 - May 1974
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00114'>ARIZA ARIZA, FRANCISCO&nbsp;(I00114)</a>
+<br />
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00115'>ARIZA ARIZA, IGNACIO&nbsp;(I00115)</a>
+</span><br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00116'>ARIZA ARIZA, MANUEL&nbsp;(I00116)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00117'>ARIZA ARIZA, ANTONIO&nbsp;(I00117)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00040'>ARIZA ARIZA, CONCEPCI&Oacute;N&nbsp;(I00040)</a>&nbsp;(23 Oct 1907 - 31 Ene 1975)
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00118'>ARIZA ARIZA, DOLORES&nbsp;(I00118)</a>&nbsp;(28 Dic 1926)
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00119'>ARIZA ARIZA, TERESA&nbsp;(I00119)</a>&nbsp;(3 Mar 1930)
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_4.php#I00127'>_, MAR&Iacute;A&nbsp;(I00127)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00128'>ARIZA, MAR&Iacute;A DOLORES&nbsp;(I00128)</a>
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00116"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA ARIZA, MANUEL&nbsp;(I00116)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA ARIZA, MANUEL (&deg; +) (I00116)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br /><img src='../theme/ev_deat.png' alt='' /><span class='gras'>  Óbito: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00075'>ARIZA RUANO, ANTONIO IGNACIO&nbsp;(I00075)</a>
+<br />
+&nbsp;1851
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00076'>BURGOS L&Oacute;PEZ, CONCEPCI&Oacute;N&nbsp;(I00076)</a>
+<br />
+&nbsp;1857
+</p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00112'>ARIZA RUANO, FRANCISCO&nbsp;(I00112)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00113'>BEN&Iacute;TEZ BLANCO, MAR&Iacute;A&nbsp;(I00113)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>
+<br />
+&nbsp;23 Nov 1885 - 1962
+</p>
+<p class="parentp">
+<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>
+<br />
+&nbsp;1882 - May 1974
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00114'>ARIZA ARIZA, FRANCISCO&nbsp;(I00114)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00115'>ARIZA ARIZA, IGNACIO&nbsp;(I00115)</a>
+<br />
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00116'>ARIZA ARIZA, MANUEL&nbsp;(I00116)</a>
+</span><br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00117'>ARIZA ARIZA, ANTONIO&nbsp;(I00117)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00040'>ARIZA ARIZA, CONCEPCI&Oacute;N&nbsp;(I00040)</a>&nbsp;(23 Oct 1907 - 31 Ene 1975)
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00118'>ARIZA ARIZA, DOLORES&nbsp;(I00118)</a>&nbsp;(28 Dic 1926)
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00119'>ARIZA ARIZA, TERESA&nbsp;(I00119)</a>&nbsp;(3 Mar 1930)
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_1.php#I00129'>AGUILERA, DOLORES&nbsp;(I00129)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00130'>ARIZA AGUILERA, ARACELI&nbsp;(I00130)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00131'>ARIZA AGUILERA, MANUEL&nbsp;(I00131)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00132'>ARIZA AGUILERA, FELIPE&nbsp;(I00132)</a>
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00119"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARIZA ARIZA, TERESA&nbsp;(I00119)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA ARIZA, TERESA (&deg;3 Mar 1930 +) (I00119)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span> 3 Mar 1930 :  CUEVAS DE SAN MARCOS  MÁLAGA<br /><img src='../theme/ev_deat.png' alt='' /><span class='gras'>  Óbito: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<p class="image">
+<a class='tooltip' href="../media/media_1.php#1528989208" ><img alt=' ARIZA ARIZA, TERESA (&deg; +)' title=' ARIZA ARIZA, TERESA (&deg; +)' src='../media/mini_users/usuario/desktop/genealogia_ancestris/fotos_ancestris/tita_teresa.jpg' /><span><b> ARIZA ARIZA, TERESA (&deg; +)</b><br /><i></i></span></a>
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00075'>ARIZA RUANO, ANTONIO IGNACIO&nbsp;(I00075)</a>
+<br />
+&nbsp;1851
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00076'>BURGOS L&Oacute;PEZ, CONCEPCI&Oacute;N&nbsp;(I00076)</a>
+<br />
+&nbsp;1857
+</p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00112'>ARIZA RUANO, FRANCISCO&nbsp;(I00112)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00113'>BEN&Iacute;TEZ BLANCO, MAR&Iacute;A&nbsp;(I00113)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>
+<br />
+&nbsp;23 Nov 1885 - 1962
+</p>
+<p class="parentp">
+<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>
+<br />
+&nbsp;1882 - May 1974
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00114'>ARIZA ARIZA, FRANCISCO&nbsp;(I00114)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00115'>ARIZA ARIZA, IGNACIO&nbsp;(I00115)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00116'>ARIZA ARIZA, MANUEL&nbsp;(I00116)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00117'>ARIZA ARIZA, ANTONIO&nbsp;(I00117)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00040'>ARIZA ARIZA, CONCEPCI&Oacute;N&nbsp;(I00040)</a>&nbsp;(23 Oct 1907 - 31 Ene 1975)
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00118'>ARIZA ARIZA, DOLORES&nbsp;(I00118)</a>&nbsp;(28 Dic 1926)
+<br />
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00119'>ARIZA ARIZA, TERESA&nbsp;(I00119)</a>&nbsp;(3 Mar 1930)
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/m.gif' alt='Hombre' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_3.php#I00120'>HINOJOSA, JOS&Eacute;&nbsp;(I00120)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_3.php#I00121'>HINOJOSA ARIZA, TERESA&nbsp;(I00121)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_3.php#I00123'>HINOJOSA ARIZA, MANUELA&nbsp;(I00123)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_3.php#I00122'>HINOJOSA ARIZA, SILVERIO MANUEL&nbsp;(I00122)</a>&nbsp;(Jul 1960)
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00195"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA BEN&Iacute;TEZ, CRIST&Oacute;BAL&nbsp;(I00195)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA BEN&Iacute;TEZ, CRIST&Oacute;BAL (&deg; +) (I00195)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>   Afirmado<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00112'>ARIZA RUANO, FRANCISCO&nbsp;(I00112)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_2.php#I00113'>BEN&Iacute;TEZ BLANCO, MAR&Iacute;A&nbsp;(I00113)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00193'>ARIZA BEN&Iacute;TEZ, FRANCISCO&nbsp;(I00193)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00194'>ARIZA BEN&Iacute;TEZ, TERESA&nbsp;(I00194)</a>
+<br />
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00195'>ARIZA BEN&Iacute;TEZ, CRIST&Oacute;BAL&nbsp;(I00195)</a>
+</span><br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>&nbsp;(1882 - May 1974)
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_4.php#I00196'>_, SALUD&nbsp;(I00196)</a>
+
+<br />
+
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00111"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA BEN&Iacute;TEZ, DOLORES (&deg;1882 +May 1974) (I00111)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span> 1882 :  CUEVAS DE SAN MARCOS  MÁLAGA<br /><img src='../theme/ev_deat.png' alt='' /><span class='gras'>  Óbito: </span> May 1974 :  CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<p class="image">
+<a class='tooltip' href="../media/media_1.php#1708561529" ><img alt=' ARIZA BEN&Iacute;TEZ, DOLORES (&deg;1882 +May 1974)' title=' ARIZA BEN&Iacute;TEZ, DOLORES (&deg;1882 +May 1974)' src='../media/mini_users/usuario/desktop/genealogia_ancestris/fotos_ancestris/mama_dolores_2.jpg' /><span><b> ARIZA BEN&Iacute;TEZ, DOLORES (&deg;1882 +May 1974)</b><br /><i></i></span></a>
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00112'>ARIZA RUANO, FRANCISCO&nbsp;(I00112)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_2.php#I00113'>BEN&Iacute;TEZ BLANCO, MAR&Iacute;A&nbsp;(I00113)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00193'>ARIZA BEN&Iacute;TEZ, FRANCISCO&nbsp;(I00193)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00194'>ARIZA BEN&Iacute;TEZ, TERESA&nbsp;(I00194)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00195'>ARIZA BEN&Iacute;TEZ, CRIST&Oacute;BAL&nbsp;(I00195)</a>
+<br />
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>&nbsp;(1882 - May 1974)
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/m.gif' alt='Hombre' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>
+&nbsp;(23 Nov 1885 - 1962)
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00114'>ARIZA ARIZA, FRANCISCO&nbsp;(I00114)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00115'>ARIZA ARIZA, IGNACIO&nbsp;(I00115)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00116'>ARIZA ARIZA, MANUEL&nbsp;(I00116)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00117'>ARIZA ARIZA, ANTONIO&nbsp;(I00117)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00040'>ARIZA ARIZA, CONCEPCI&Oacute;N&nbsp;(I00040)</a>&nbsp;(23 Oct 1907 - 31 Ene 1975)
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00118'>ARIZA ARIZA, DOLORES&nbsp;(I00118)</a>&nbsp;(28 Dic 1926)
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00119'>ARIZA ARIZA, TERESA&nbsp;(I00119)</a>&nbsp;(3 Mar 1930)
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00193"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA BEN&Iacute;TEZ, FRANCISCO&nbsp;(I00193)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA BEN&Iacute;TEZ, FRANCISCO (&deg; +) (I00193)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00112'>ARIZA RUANO, FRANCISCO&nbsp;(I00112)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_2.php#I00113'>BEN&Iacute;TEZ BLANCO, MAR&Iacute;A&nbsp;(I00113)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00193'>ARIZA BEN&Iacute;TEZ, FRANCISCO&nbsp;(I00193)</a>
+</span><br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00194'>ARIZA BEN&Iacute;TEZ, TERESA&nbsp;(I00194)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00195'>ARIZA BEN&Iacute;TEZ, CRIST&Oacute;BAL&nbsp;(I00195)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>&nbsp;(1882 - May 1974)
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00194"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARIZA BEN&Iacute;TEZ, TERESA&nbsp;(I00194)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA BEN&Iacute;TEZ, TERESA (&deg; +) (I00194)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00112'>ARIZA RUANO, FRANCISCO&nbsp;(I00112)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_2.php#I00113'>BEN&Iacute;TEZ BLANCO, MAR&Iacute;A&nbsp;(I00113)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00193'>ARIZA BEN&Iacute;TEZ, FRANCISCO&nbsp;(I00193)</a>
+<br />
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00194'>ARIZA BEN&Iacute;TEZ, TERESA&nbsp;(I00194)</a>
+</span><br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00195'>ARIZA BEN&Iacute;TEZ, CRIST&Oacute;BAL&nbsp;(I00195)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>&nbsp;(1882 - May 1974)
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00192"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARIZA BURGOS, ANA MAR&Iacute;A&nbsp;(I00192)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA BURGOS, ANA MAR&Iacute;A (&deg; +) (I00192)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>   Afirmado<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00077'>ARIZA LUQUE, MANUEL&nbsp;(I00077)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_4.php#I00078'>RUANO HINOJOSA, ANA&nbsp;(I00078)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00079'>BURGOS DONCEL, ANTONIO&nbsp;(I00079)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_3.php#I00080'>L&Oacute;PEZ DOBLADO, MAR&Iacute;A&nbsp;(I00080)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00075'>ARIZA RUANO, ANTONIO IGNACIO&nbsp;(I00075)</a>
+<br />
+&nbsp;1851
+</p>
+<p class="parentp">
+<a href='personsdetails_2.php#I00076'>BURGOS L&Oacute;PEZ, CONCEPCI&Oacute;N&nbsp;(I00076)</a>
+<br />
+&nbsp;1857
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00136'>ARIZA BURGOS, CONCEPCI&Oacute;N&nbsp;(I00136)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00137'>ARIZA BURGOS, IGNACIO&nbsp;(I00137)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00138'>ARIZA BURGOS, MANUEL&nbsp;(I00138)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00191'>ARIZA BURGOS, LEOPOLDO&nbsp;(I00191)</a>
+<br />
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00192'>ARIZA BURGOS, ANA MAR&Iacute;A&nbsp;(I00192)</a>
+</span><br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>&nbsp;(23 Nov 1885 - 1962)
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00074"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE (&deg;23 Nov 1885 +1962) (I00074)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span> 23 Nov 1885 :  CUEVAS DE SAN MARCOS  MÁLAGA<br /><img src='../theme/ev_deat.png' alt='' /><span class='gras'>  Óbito: </span> 1962 :  CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<p class="image">
+<a class='tooltip' href="../media/media_1.php#265356876" ><img alt=' papa_silverio2.jpg' title=' papa_silverio2.jpg' src='../media/mini_users/usuario/desktop/genealogia_ancestris/fotos_ancestris/papa_silverio2.jpg' /><span><b> papa_silverio2.jpg</b><br /><i></i></span></a>
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00077'>ARIZA LUQUE, MANUEL&nbsp;(I00077)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_4.php#I00078'>RUANO HINOJOSA, ANA&nbsp;(I00078)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00079'>BURGOS DONCEL, ANTONIO&nbsp;(I00079)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_3.php#I00080'>L&Oacute;PEZ DOBLADO, MAR&Iacute;A&nbsp;(I00080)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00075'>ARIZA RUANO, ANTONIO IGNACIO&nbsp;(I00075)</a>
+<br />
+&nbsp;1851
+</p>
+<p class="parentp">
+<a href='personsdetails_2.php#I00076'>BURGOS L&Oacute;PEZ, CONCEPCI&Oacute;N&nbsp;(I00076)</a>
+<br />
+&nbsp;1857
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00136'>ARIZA BURGOS, CONCEPCI&Oacute;N&nbsp;(I00136)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00137'>ARIZA BURGOS, IGNACIO&nbsp;(I00137)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00138'>ARIZA BURGOS, MANUEL&nbsp;(I00138)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00191'>ARIZA BURGOS, LEOPOLDO&nbsp;(I00191)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00192'>ARIZA BURGOS, ANA MAR&Iacute;A&nbsp;(I00192)</a>
+<br />
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>&nbsp;(23 Nov 1885 - 1962)
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>
+&nbsp;(1882 - May 1974)
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00114'>ARIZA ARIZA, FRANCISCO&nbsp;(I00114)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00115'>ARIZA ARIZA, IGNACIO&nbsp;(I00115)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00116'>ARIZA ARIZA, MANUEL&nbsp;(I00116)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00117'>ARIZA ARIZA, ANTONIO&nbsp;(I00117)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00040'>ARIZA ARIZA, CONCEPCI&Oacute;N&nbsp;(I00040)</a>&nbsp;(23 Oct 1907 - 31 Ene 1975)
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00118'>ARIZA ARIZA, DOLORES&nbsp;(I00118)</a>&nbsp;(28 Dic 1926)
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00119'>ARIZA ARIZA, TERESA&nbsp;(I00119)</a>&nbsp;(3 Mar 1930)
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00136"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARIZA BURGOS, CONCEPCI&Oacute;N&nbsp;(I00136)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA BURGOS, CONCEPCI&Oacute;N (&deg; +) (I00136)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br /><img src='../theme/ev_deat.png' alt='' /><span class='gras'>  Óbito: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00077'>ARIZA LUQUE, MANUEL&nbsp;(I00077)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_4.php#I00078'>RUANO HINOJOSA, ANA&nbsp;(I00078)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00079'>BURGOS DONCEL, ANTONIO&nbsp;(I00079)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_3.php#I00080'>L&Oacute;PEZ DOBLADO, MAR&Iacute;A&nbsp;(I00080)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00075'>ARIZA RUANO, ANTONIO IGNACIO&nbsp;(I00075)</a>
+<br />
+&nbsp;1851
+</p>
+<p class="parentp">
+<a href='personsdetails_2.php#I00076'>BURGOS L&Oacute;PEZ, CONCEPCI&Oacute;N&nbsp;(I00076)</a>
+<br />
+&nbsp;1857
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00136'>ARIZA BURGOS, CONCEPCI&Oacute;N&nbsp;(I00136)</a>
+</span><br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00137'>ARIZA BURGOS, IGNACIO&nbsp;(I00137)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00138'>ARIZA BURGOS, MANUEL&nbsp;(I00138)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00191'>ARIZA BURGOS, LEOPOLDO&nbsp;(I00191)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00192'>ARIZA BURGOS, ANA MAR&Iacute;A&nbsp;(I00192)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>&nbsp;(23 Nov 1885 - 1962)
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/m.gif' alt='Hombre' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_4.php#I00140'>_, &nbsp;(I00140)</a>
+&nbsp;(?)
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_4.php#I00139'>_, IGNACIO&nbsp;(I00139)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_4.php#I00141'>_, MANUEL&nbsp;(I00141)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_4.php#I00142'>_, CARMEN&nbsp;(I00142)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_4.php#I00143'>_, CONCEPCI&Oacute;N&nbsp;(I00143)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_4.php#I00144'>_, ?&nbsp;(I00144)</a>
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00137"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA BURGOS, IGNACIO&nbsp;(I00137)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA BURGOS, IGNACIO (&deg; +) (I00137)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>   Afirmado<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00077'>ARIZA LUQUE, MANUEL&nbsp;(I00077)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_4.php#I00078'>RUANO HINOJOSA, ANA&nbsp;(I00078)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00079'>BURGOS DONCEL, ANTONIO&nbsp;(I00079)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_3.php#I00080'>L&Oacute;PEZ DOBLADO, MAR&Iacute;A&nbsp;(I00080)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00075'>ARIZA RUANO, ANTONIO IGNACIO&nbsp;(I00075)</a>
+<br />
+&nbsp;1851
+</p>
+<p class="parentp">
+<a href='personsdetails_2.php#I00076'>BURGOS L&Oacute;PEZ, CONCEPCI&Oacute;N&nbsp;(I00076)</a>
+<br />
+&nbsp;1857
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00136'>ARIZA BURGOS, CONCEPCI&Oacute;N&nbsp;(I00136)</a>
+<br />
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00137'>ARIZA BURGOS, IGNACIO&nbsp;(I00137)</a>
+</span><br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00138'>ARIZA BURGOS, MANUEL&nbsp;(I00138)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00191'>ARIZA BURGOS, LEOPOLDO&nbsp;(I00191)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00192'>ARIZA BURGOS, ANA MAR&Iacute;A&nbsp;(I00192)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>&nbsp;(23 Nov 1885 - 1962)
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00191"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA BURGOS, LEOPOLDO&nbsp;(I00191)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA BURGOS, LEOPOLDO (&deg; +) (I00191)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00077'>ARIZA LUQUE, MANUEL&nbsp;(I00077)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_4.php#I00078'>RUANO HINOJOSA, ANA&nbsp;(I00078)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00079'>BURGOS DONCEL, ANTONIO&nbsp;(I00079)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_3.php#I00080'>L&Oacute;PEZ DOBLADO, MAR&Iacute;A&nbsp;(I00080)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00075'>ARIZA RUANO, ANTONIO IGNACIO&nbsp;(I00075)</a>
+<br />
+&nbsp;1851
+</p>
+<p class="parentp">
+<a href='personsdetails_2.php#I00076'>BURGOS L&Oacute;PEZ, CONCEPCI&Oacute;N&nbsp;(I00076)</a>
+<br />
+&nbsp;1857
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00136'>ARIZA BURGOS, CONCEPCI&Oacute;N&nbsp;(I00136)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00137'>ARIZA BURGOS, IGNACIO&nbsp;(I00137)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00138'>ARIZA BURGOS, MANUEL&nbsp;(I00138)</a>
+<br />
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00191'>ARIZA BURGOS, LEOPOLDO&nbsp;(I00191)</a>
+</span><br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00192'>ARIZA BURGOS, ANA MAR&Iacute;A&nbsp;(I00192)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>&nbsp;(23 Nov 1885 - 1962)
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00138"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA BURGOS, MANUEL&nbsp;(I00138)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA BURGOS, MANUEL (&deg; +) (I00138)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>   Afirmado<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00077'>ARIZA LUQUE, MANUEL&nbsp;(I00077)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_4.php#I00078'>RUANO HINOJOSA, ANA&nbsp;(I00078)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00079'>BURGOS DONCEL, ANTONIO&nbsp;(I00079)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_3.php#I00080'>L&Oacute;PEZ DOBLADO, MAR&Iacute;A&nbsp;(I00080)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00075'>ARIZA RUANO, ANTONIO IGNACIO&nbsp;(I00075)</a>
+<br />
+&nbsp;1851
+</p>
+<p class="parentp">
+<a href='personsdetails_2.php#I00076'>BURGOS L&Oacute;PEZ, CONCEPCI&Oacute;N&nbsp;(I00076)</a>
+<br />
+&nbsp;1857
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00136'>ARIZA BURGOS, CONCEPCI&Oacute;N&nbsp;(I00136)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00137'>ARIZA BURGOS, IGNACIO&nbsp;(I00137)</a>
+<br />
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00138'>ARIZA BURGOS, MANUEL&nbsp;(I00138)</a>
+</span><br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00191'>ARIZA BURGOS, LEOPOLDO&nbsp;(I00191)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00192'>ARIZA BURGOS, ANA MAR&Iacute;A&nbsp;(I00192)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>&nbsp;(23 Nov 1885 - 1962)
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00048"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA CABRERA, JOS&Eacute;&nbsp;(I00048)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA CABRERA, JOS&Eacute; (&deg; +) (I00048)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00147'>ARIZA MOLERO, CRIST&Oacute;BAL&nbsp;(I00147)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_3.php#I00148'>L&Oacute;PEZ MOSCOSO, ANTONIA TOMASA&nbsp;(I00148)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00151'>CABRERA CABRERA, FRANCISCO&nbsp;(I00151)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_4.php#I00152'>VELASCO PRIETO, IN&Eacute;S ROSAL&Iacute;A (ANA)&nbsp;(I00152)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00145'>ARIZA L&Oacute;PEZ, CRIST&Oacute;BAL (SANTIAGO)&nbsp;(I00145)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_2.php#I00146'>CABRERA VELASCO, ANA&nbsp;(I00146)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00048'>ARIZA CABRERA, JOS&Eacute;&nbsp;(I00048)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_3.php#I00049'>MOYANO LUQUE, DOLORES&nbsp;(I00049)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00024'>ARIZA MOYANO, ANA&nbsp;(I00024)</a>&nbsp;(1894 - Ene 1985)
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00145"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA L&Oacute;PEZ, CRIST&Oacute;BAL (SANTIAGO)&nbsp;(I00145)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA L&Oacute;PEZ, CRIST&Oacute;BAL (SANTIAGO) (&deg; +) (I00145)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>   Afirmado<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00149'>ARIZA REPISO, CRIST&Oacute;BAL&nbsp;(I00149)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_3.php#I00150'>MOLERO BEN&Iacute;TEZ, JUANA&nbsp;(I00150)</a>
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00147'>ARIZA MOLERO, CRIST&Oacute;BAL&nbsp;(I00147)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_3.php#I00148'>L&Oacute;PEZ MOSCOSO, ANTONIA TOMASA&nbsp;(I00148)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00145'>ARIZA L&Oacute;PEZ, CRIST&Oacute;BAL (SANTIAGO)&nbsp;(I00145)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_2.php#I00146'>CABRERA VELASCO, ANA&nbsp;(I00146)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00048'>ARIZA CABRERA, JOS&Eacute;&nbsp;(I00048)</a>
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00168"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARIZA L&Oacute;PEZ, DOLORES&nbsp;(I00168)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA L&Oacute;PEZ, DOLORES (&deg; +) (I00168)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>   Afirmado<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00177'>ARIZA REPISO, CRIST&Oacute;BAL&nbsp;(I00177)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_3.php#I00178'>MOLERO BEN&Iacute;TEZ, JUANA&nbsp;(I00178)</a>
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00175'>ARIZA MOLERO, CRIST&Oacute;BAL&nbsp;(I00175)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_3.php#I00176'>L&Oacute;PEZ MOSCOSO, ANTONIA TOMASA&nbsp;(I00176)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00168'>ARIZA L&Oacute;PEZ, DOLORES&nbsp;(I00168)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/m.gif' alt='Hombre' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_4.php#I00167'>RUANO GRANADOS, FRANCISCO&nbsp;(I00167)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_4.php#I00046'>RUANO ARIZA, NICOL&Aacute;S&nbsp;(I00046)</a>
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00077"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA LUQUE, MANUEL&nbsp;(I00077)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA LUQUE, MANUEL (&deg; +) (I00077)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+?
+<br />
+
+</p>
+<p class="parentp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00077'>ARIZA LUQUE, MANUEL&nbsp;(I00077)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_4.php#I00078'>RUANO HINOJOSA, ANA&nbsp;(I00078)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00075'>ARIZA RUANO, ANTONIO IGNACIO&nbsp;(I00075)</a>&nbsp;(1851)
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00147"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA MOLERO, CRIST&Oacute;BAL&nbsp;(I00147)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA MOLERO, CRIST&Oacute;BAL (&deg; +) (I00147)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>   Afirmado<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00149'>ARIZA REPISO, CRIST&Oacute;BAL&nbsp;(I00149)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_3.php#I00150'>MOLERO BEN&Iacute;TEZ, JUANA&nbsp;(I00150)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00147'>ARIZA MOLERO, CRIST&Oacute;BAL&nbsp;(I00147)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_3.php#I00148'>L&Oacute;PEZ MOSCOSO, ANTONIA TOMASA&nbsp;(I00148)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00145'>ARIZA L&Oacute;PEZ, CRIST&Oacute;BAL (SANTIAGO)&nbsp;(I00145)</a>
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00175"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA MOLERO, CRIST&Oacute;BAL&nbsp;(I00175)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA MOLERO, CRIST&Oacute;BAL (&deg; +) (I00175)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>   Afirmado<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00177'>ARIZA REPISO, CRIST&Oacute;BAL&nbsp;(I00177)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_3.php#I00178'>MOLERO BEN&Iacute;TEZ, JUANA&nbsp;(I00178)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00175'>ARIZA MOLERO, CRIST&Oacute;BAL&nbsp;(I00175)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_3.php#I00176'>L&Oacute;PEZ MOSCOSO, ANTONIA TOMASA&nbsp;(I00176)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00168'>ARIZA L&Oacute;PEZ, DOLORES&nbsp;(I00168)</a>
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00024"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARIZA MOYANO, ANA&nbsp;(I00024)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA MOYANO, ANA (&deg;1894 +Ene 1985) (I00024)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span> 1894 :  CUEVAS DE SAN MARCOS  MÁLAGA<br /><img src='../theme/ev_deat.png' alt='' /><span class='gras'>  Óbito: </span> Ene 1985 :  CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<p class="image">
+<a class='tooltip' href="../media/media_1.php#1867533294" ><img alt=' mama_anica.jpg' title=' mama_anica.jpg' src='../media/mini_users/usuario/desktop/genealogia_ancestris/fotos_ancestris/mama_anica.jpg' /><span><b> mama_anica.jpg</b><br /><i></i></span></a>
+<a class='tooltip' ><img alt='' title='' src='../theme/weblink.png' /><span><i></i></span></a>
+<a class='tooltip' ><img alt='' title='' src='../theme/weblink.png' /><span><i></i></span></a>
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00145'>ARIZA L&Oacute;PEZ, CRIST&Oacute;BAL (SANTIAGO)&nbsp;(I00145)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_2.php#I00146'>CABRERA VELASCO, ANA&nbsp;(I00146)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_3.php#I00157'>MOYANO LUQUE, MANUEL&nbsp;(I00157)</a>
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_3.php#I00158'>LUQUE SANCHO, CARMEN&nbsp;(I00158)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00048'>ARIZA CABRERA, JOS&Eacute;&nbsp;(I00048)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_3.php#I00049'>MOYANO LUQUE, DOLORES&nbsp;(I00049)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00024'>ARIZA MOYANO, ANA&nbsp;(I00024)</a>&nbsp;(1894 - Ene 1985)
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/m.gif' alt='Hombre' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_4.php#I00023'>RUANO MOYANO, NICOL&Aacute;S&nbsp;(I00023)</a>
+&nbsp;(1887)
+<br />
+<img src='../theme/ev_marr.png' alt='' /><span class='gras'>  Matrimonio: </span> 10 Jun 1918 :  CUEVAS DE SAN MARCOS  MÁLAGA<br />
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_4.php#I00025'>RUANO ARIZA, DOLORES&nbsp;(I00025)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_4.php#I00026'>RUANO ARIZA, NICOL&Aacute;S&nbsp;(I00026)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_4.php#I00027'>RUANO ARIZA, JOS&Eacute;&nbsp;(I00027)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_4.php#I00028'>RUANO ARIZA, JOSEFA&nbsp;(I00028)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_4.php#I00029'>RUANO ARIZA, ENRIQUE&nbsp;(I00029)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_4.php#I00006'>RUANO ARIZA, ANTONIO&nbsp;(I00006)</a>&nbsp;(1 Ene 1927 - 11 Abr 2019)
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00149"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA REPISO, CRIST&Oacute;BAL&nbsp;(I00149)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA REPISO, CRIST&Oacute;BAL (&deg; +) (I00149)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>   Afirmado<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+?
+<br />
+
+</p>
+<p class="parentp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00149'>ARIZA REPISO, CRIST&Oacute;BAL&nbsp;(I00149)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_3.php#I00150'>MOLERO BEN&Iacute;TEZ, JUANA&nbsp;(I00150)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00147'>ARIZA MOLERO, CRIST&Oacute;BAL&nbsp;(I00147)</a>
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00177"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA REPISO, CRIST&Oacute;BAL&nbsp;(I00177)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA REPISO, CRIST&Oacute;BAL (&deg; +) (I00177)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>   Afirmado<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+?
+<br />
+
+</p>
+<p class="parentp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00177'>ARIZA REPISO, CRIST&Oacute;BAL&nbsp;(I00177)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_3.php#I00178'>MOLERO BEN&Iacute;TEZ, JUANA&nbsp;(I00178)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00175'>ARIZA MOLERO, CRIST&Oacute;BAL&nbsp;(I00175)</a>
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00075"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA RUANO, ANTONIO IGNACIO&nbsp;(I00075)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA RUANO, ANTONIO IGNACIO (&deg;1851 +) (I00075)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span> 1851 :  CUEVAS DE SAN MARCOS  MÁLAGA<br /><img src='../theme/ev_occu.png' alt='' /><span class='gras'>  Ocupación: </span>   GUARDA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00077'>ARIZA LUQUE, MANUEL&nbsp;(I00077)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_4.php#I00078'>RUANO HINOJOSA, ANA&nbsp;(I00078)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00075'>ARIZA RUANO, ANTONIO IGNACIO&nbsp;(I00075)</a>&nbsp;(1851)
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_2.php#I00076'>BURGOS L&Oacute;PEZ, CONCEPCI&Oacute;N&nbsp;(I00076)</a>
+&nbsp;(1857)
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00136'>ARIZA BURGOS, CONCEPCI&Oacute;N&nbsp;(I00136)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00137'>ARIZA BURGOS, IGNACIO&nbsp;(I00137)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00138'>ARIZA BURGOS, MANUEL&nbsp;(I00138)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00191'>ARIZA BURGOS, LEOPOLDO&nbsp;(I00191)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00192'>ARIZA BURGOS, ANA MAR&Iacute;A&nbsp;(I00192)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00074'>ARIZA BURGOS, CALISTO SILVERIO DE SAN CLEMENTE&nbsp;(I00074)</a>&nbsp;(23 Nov 1885 - 1962)
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00112"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARIZA RUANO, FRANCISCO&nbsp;(I00112)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARIZA RUANO, FRANCISCO (&deg; +) (I00112)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>   Afirmado<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+?
+<br />
+
+</p>
+<p class="parentp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00112'>ARIZA RUANO, FRANCISCO&nbsp;(I00112)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_2.php#I00113'>BEN&Iacute;TEZ BLANCO, MAR&Iacute;A&nbsp;(I00113)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00193'>ARIZA BEN&Iacute;TEZ, FRANCISCO&nbsp;(I00193)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00194'>ARIZA BEN&Iacute;TEZ, TERESA&nbsp;(I00194)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00195'>ARIZA BEN&Iacute;TEZ, CRIST&Oacute;BAL&nbsp;(I00195)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00111'>ARIZA BEN&Iacute;TEZ, DOLORES&nbsp;(I00111)</a>&nbsp;(1882 - May 1974)
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00030"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+ARTACHO QUINTANA, NAZARIO&nbsp;(I00030)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARTACHO QUINTANA, NAZARIO (&deg; +) (I00030)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br /><img src='../theme/ev_deat.png' alt='' /><span class='gras'>  Óbito: </span>    SÚRIA  BARCELONA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+?
+<br />
+
+</p>
+<p class="parentp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00030'>ARTACHO QUINTANA, NAZARIO&nbsp;(I00030)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_4.php#I00025'>RUANO ARIZA, DOLORES&nbsp;(I00025)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00031'>ARTACHO RUANO, MAR&Iacute;A DEL CARMEN&nbsp;(I00031)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00032'>ARTACHO RUANO, ANA&nbsp;(I00032)</a>
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00032"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARTACHO RUANO, ANA&nbsp;(I00032)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARTACHO RUANO, ANA (&deg; +) (I00032)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_4.php#I00023'>RUANO MOYANO, NICOL&Aacute;S&nbsp;(I00023)</a>
+<br />
+&nbsp;1887
+</p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00024'>ARIZA MOYANO, ANA&nbsp;(I00024)</a>
+<br />
+&nbsp;1894 - Ene 1985
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00030'>ARTACHO QUINTANA, NAZARIO&nbsp;(I00030)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_4.php#I00025'>RUANO ARIZA, DOLORES&nbsp;(I00025)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00031'>ARTACHO RUANO, MAR&Iacute;A DEL CARMEN&nbsp;(I00031)</a>
+<br />
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00032'>ARTACHO RUANO, ANA&nbsp;(I00032)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00031"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+ARTACHO RUANO, MAR&Iacute;A DEL CARMEN&nbsp;(I00031)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"ARTACHO RUANO, MAR&Iacute;A DEL CARMEN (&deg; +) (I00031)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br /><img src='../theme/ev_deat.png' alt='' /><span class='gras'>  Óbito: </span>    BARCELONA<br />
+<br />
+</p>
+<p class="image">
+<a class='tooltip' href="../media/media_1.php#1993192545" ><img alt=' ARTACHO RUANO, MAR&Iacute;A DEL CARMEN (&deg; +)' title=' ARTACHO RUANO, MAR&Iacute;A DEL CARMEN (&deg; +)' src='../media/mini_users/usuario/desktop/genealogia_ancestris/fotos_ancestris/prima_mari_carmen.jpeg' /><span><b> ARTACHO RUANO, MAR&Iacute;A DEL CARMEN (&deg; +)</b><br /><i></i></span></a>
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+<a href='personsdetails_4.php#I00023'>RUANO MOYANO, NICOL&Aacute;S&nbsp;(I00023)</a>
+<br />
+&nbsp;1887
+</p>
+<p class="parentgp">
+<a href='personsdetails_1.php#I00024'>ARIZA MOYANO, ANA&nbsp;(I00024)</a>
+<br />
+&nbsp;1894 - Ene 1985
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00030'>ARTACHO QUINTANA, NAZARIO&nbsp;(I00030)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_4.php#I00025'>RUANO ARIZA, DOLORES&nbsp;(I00025)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00031'>ARTACHO RUANO, MAR&Iacute;A DEL CARMEN&nbsp;(I00031)</a>
+</span><br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00032'>ARTACHO RUANO, ANA&nbsp;(I00032)</a>
+<br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00054"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+AYALA, JUAN&nbsp;(I00054)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"AYALA, JUAN (&deg; +) (I00054)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CINTRUÉNIGO  NAVARRA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+?
+<br />
+
+</p>
+<p class="parentp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00054'>AYALA, JUAN&nbsp;(I00054)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_3.php#I00055'>LACARRA, ANDRESA&nbsp;(I00055)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00053'>AYALA LACARRA, AMALIA&nbsp;(I00053)</a>&nbsp;(1903)
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00053"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+AYALA LACARRA, AMALIA&nbsp;(I00053)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"AYALA LACARRA, AMALIA (&deg;1903 +) (I00053)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span> 1903 :  CINTRUÉNIGO  NAVARRA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00054'>AYALA, JUAN&nbsp;(I00054)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_3.php#I00055'>LACARRA, ANDRESA&nbsp;(I00055)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00053'>AYALA LACARRA, AMALIA&nbsp;(I00053)</a>&nbsp;(1903)
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/m.gif' alt='Hombre' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_4.php#I00050'>P&Eacute;REZ PE&Ntilde;A, CECILIO&nbsp;(I00050)</a>
+&nbsp;(1904)
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_3.php#I00056'>P&Eacute;REZ AYALA, CARMEN&nbsp;(I00056)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_3.php#I00057'>P&Eacute;REZ AYALA, NIEVES&nbsp;(I00057)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_3.php#I00058'>P&Eacute;REZ AYALA, MARI PAZ&nbsp;(I00058)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_3.php#I00059'>P&Eacute;REZ AYALA, JES&Uacute;S&nbsp;(I00059)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_3.php#I00060'>P&Eacute;REZ AYALA, EDELMIRA&nbsp;(I00060)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_3.php#I00009'>P&Eacute;REZ AYALA, ANA MAR&Iacute;A&nbsp;(I00009)</a>&nbsp;(10 Ene 1935 - 28 May 2023)
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00065"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+BEA, FRANCISCO&nbsp;(I00065)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"BEA, FRANCISCO (&deg; +) (I00065)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CINTRUÉNIGO  NAVARRA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+?
+<br />
+
+</p>
+<p class="parentp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00065'>BEA, FRANCISCO&nbsp;(I00065)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_4.php#I00066'>VIRTO, DOROTEA&nbsp;(I00066)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00064'>BEA VIRTO, PETRA&nbsp;(I00064)</a>&nbsp;(1899)
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="fem">
+<a id="I00064"></a>
+<img src='../theme/f.gif' alt='Mujer' />
+&nbsp;
+BEA VIRTO, PETRA&nbsp;(I00064)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"BEA VIRTO, PETRA (&deg;1899 +) (I00064)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span> 1899 :  CINTRUÉNIGO  NAVARRA<br /><img src='../theme/ev_deat.png' alt='' /><span class='gras'>  Óbito: </span>    CINTRUÉNIGO  NAVARRA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+<a href='personsdetails_1.php#I00065'>BEA, FRANCISCO&nbsp;(I00065)</a>
+<br />
+
+</p>
+<p class="parentp">
+<a href='personsdetails_4.php#I00066'>VIRTO, DOROTEA&nbsp;(I00066)</a>
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_1.php#I00064'>BEA VIRTO, PETRA&nbsp;(I00064)</a>&nbsp;(1899)
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/m.gif' alt='Hombre' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_2.php#I00061'>CHIVITE FRANC&Eacute;S, GALO&nbsp;(I00061)</a>
+&nbsp;(1897)
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_2.php#I00067'>CHIVITE BEA, F&Eacute;LIX&nbsp;(I00067)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_2.php#I00068'>CHIVITE BEA, PEDRO&nbsp;(I00068)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_2.php#I00069'>CHIVITE BEA, FERM&Iacute;N&nbsp;(I00069)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_2.php#I00070'>CHIVITE BEA, LUC&Iacute;A&nbsp;(I00070)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_2.php#I00071'>CHIVITE BEA, TERESA&nbsp;(I00071)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_2.php#I00072'>CHIVITE BEA, PILAR&nbsp;(I00072)</a>
+<br />
+<img src='../theme/f.gif' alt='Mujer' />&nbsp;<a href='personsdetails_2.php#I00073'>CHIVITE BEA, MENCHU&nbsp;(I00073)</a>
+<br />
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_2.php#I00008'>CHIVITE BEA, TEODORO&nbsp;(I00008)</a>&nbsp;(26 Dic 1932 - 7 Dic 2012)
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00096"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+BEN&Iacute;TEZ, JUAN&nbsp;(I00096)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"BEN&Iacute;TEZ, JUAN (&deg; +) (I00096)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+?
+<br />
+
+</p>
+<p class="parentp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00096'>BEN&Iacute;TEZ, JUAN&nbsp;(I00096)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+<img src='../theme/f.gif' alt='Mujer' />
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+<a href='personsdetails_3.php#I00097'>GAONA, ANTONIA&nbsp;(I00097)</a>
+
+<br />
+
+</p>
+<p class="parentf"><img src="../theme/chld.png" alt="icon" />
+<span class="gras">Hijos</span>:<br /></p>
+<p class="parentfc">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_2.php#I00092'>BEN&Iacute;TEZ GAONA, BARTOLOM&Eacute;&nbsp;(I00092)</a>
+<br />
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<h2 class="hom">
+<a id="I00095"></a>
+<img src='../theme/m.gif' alt='Hombre' />
+&nbsp;
+BEN&Iacute;TEZ, JUAN&nbsp;(I00095)
+</h2>
+<div class="conteneur">
+<a href='javascript:popup(\"BEN&Iacute;TEZ, JUAN (&deg; +) (I00095)\")'><img src='../theme/mail.gif' alt='Enviar un comentario al autor acerca de esta persona' title='Enviar un comentario al autor acerca de esta persona'/></a>
+<br /><br />
+<p class="decal"><span class="gras">Cronolog&iacute;a</span></p>
+<p class="parentm">
+<img src='../theme/ev_birt.png' alt='' /><span class='gras'>  Nacimiento: </span>    CUEVAS DE SAN MARCOS  MÁLAGA<br />
+<br />
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Padres y abuelos</span></p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<p class="parentgp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl2"></p>
+<p class="parentgpl3"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl1"></p>
+<p class="parentgpl4"></p>
+<p class="parentgpl5"></p>
+<p class="parentgpl1"></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="parentp">
+?
+<br />
+
+</p>
+<p class="parentp">
+?
+<br />
+
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><br /><span class="gras">Hermanos y hermanas</span></p>
+<p class="parents">
+<span class="grasplus">
+<img src='../theme/m.gif' alt='Hombre' />&nbsp;<a href='personsdetails_1.php#I00095'>BEN&Iacute;TEZ, JUAN&nbsp;(I00095)</a>
+</span><br />
+<br /></p>
+<div class="spacer">&nbsp;</div>
+</div>
+<div class="conteneur">
+<p class="decal"><span class="gras">Familia</span></p>
+<p class="parentf">
+
+<span class="gras">C&oacute;nyuge</span>:&nbsp;
+?
+
+<br />
+
+</p>
+<br />
+<div class="spacer">&nbsp;</div>
+</div>
+<p class="footer">
+<br /><br />
+<a href="personsdetails_1.php#top"><img src="../theme/t.gif" alt="Parte superior de la página" title="Parte superior de la página" /></a><br />
+<a href="personsdetails_1.php"><img src="../theme/s.gif" alt="Sección de inicio" title="Sección de inicio" /></a>
+<a href="personsdetails_1.php"><img src="../theme/p.gif" alt="Página anterior" title="Página anterior" /></a>
+<a href="../index.php#top"><img src="../theme/h.gif" alt="Página de bienvenida" title="Página de bienvenida" /></a>
+<a href="personsdetails_2.php"><img src="../theme/n.gif" alt="Sección siguiente" title="Sección siguiente" /></a>
+<a href="personsdetails_4.php"><img src="../theme/e.gif" alt="Final de la sección" title="Final de la sección"  /></a>
+<br /><a href="personsdetails_1.php#bot"><img src="../theme/b.gif" alt="Parte inferior de la página" title="Parte inferior de la página" /></a>
+</p>
+<p><a id="bot"></a>&nbsp;</p>
+
+<!-- END OF VARIABLE CONTENT -->
+
+<?php include("includes/awb_footer.php"); ?>
