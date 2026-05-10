@@ -21,15 +21,15 @@ var obj = [
  "y":"45.0", 
  "s":"l", 
  "a":"s", 
- "t":"b", 
+ "t":"bm", 
  "d":"3", 
- "min":"0", 
- "max":"0", 
+ "min":"1860", 
+ "max":"1878", 
  "lkp":"citiesdetails_1.html", 
  "lki":"AGUILAR_DE_LA_FRONTERA__CORDOBA_______", 
  "lko":"CORDOBA", 
  "cty":"CÓRDOBA", 
- "text":"Ciudad the CÓRDOBA,  (N45,0 W4,0).;2 individuos: 2 ascendientes.;Apellidos más comunes: ARIAS RODRÍGUEZ, CARRILLO HURTADO.;2 eventos: 2 nacimientos.;" 
+ "text":"Ciudad the CÓRDOBA,  (N45,0 W4,0).;2 individuos: 2 ascendientes.;Apellidos más comunes: CARRILLO HURTADO, ARIAS RODRÍGUEZ.;2 eventos: 1 nacimientos, 1 matrimonios.;se ha producido entre \"30 Jun 1860\" y \"23 Feb 1878\"." 
  },
 
 {
@@ -94,6 +94,22 @@ var obj = [
  "lko":"CORDOBA", 
  "cty":"CÓRDOBA", 
  "text":"Ciudad the CÓRDOBA,  (N45,0 W4,0).;1 individuos: 1 primos.;Apellidos más comunes: BENÍTEZ ARIAS.;1 eventos: 1 muertes.;se ha producido el \"21 Jul 1936\"." 
+ },
+
+{
+ "x": "-4.0", 
+ "y":"45.0", 
+ "s":"l", 
+ "a":"s", 
+ "t":"b", 
+ "d":"3", 
+ "min":"0", 
+ "max":"0", 
+ "lkp":"citiesdetails_1.html", 
+ "lki":"CIMADEVILA__LUGO_______", 
+ "lko":"LUGO", 
+ "cty":"LUGO", 
+ "text":"Ciudad the LUGO,  (N45,0 W4,0).;3 individuos: 3 ascendientes.;Apellidos más comunes: ARIAS, ARIAS VÁZQUEZ, VÁZQUEZ.;3 eventos: 3 nacimientos.;" 
  },
 
 {
@@ -180,6 +196,22 @@ var obj = [
  "x": "-4.0", 
  "y":"45.0", 
  "s":"l", 
+ "a":"s", 
+ "t":"b", 
+ "d":"3", 
+ "min":"0", 
+ "max":"0", 
+ "lkp":"citiesdetails_1.html", 
+ "lki":"LA_CABARCA__LUGO_______", 
+ "lko":"LUGO", 
+ "cty":"LUGO", 
+ "text":"Ciudad the LUGO,  (N45,0 W4,0).;2 individuos: 2 ascendientes.;Apellidos más comunes: ARIAS, RODRÍGUEZ ARIAS.;2 eventos: 2 nacimientos.;" 
+ },
+
+{
+ "x": "-4.0", 
+ "y":"45.0", 
+ "s":"l", 
  "a":"c", 
  "t":"d", 
  "d":"3", 
@@ -190,6 +222,22 @@ var obj = [
  "lko":"VALENCIA", 
  "cty":"VALENCIA", 
  "text":"Ciudad the VALENCIA,  (N45,0 W4,0).;1 individuos: 1 primos.;Apellidos más comunes: ARIZA ARIZA.;1 eventos: 1 muertes.;" 
+ },
+
+{
+ "x": "-4.0", 
+ "y":"45.0", 
+ "s":"l", 
+ "a":"s", 
+ "t":"b", 
+ "d":"3", 
+ "min":"0", 
+ "max":"0", 
+ "lkp":"citiesdetails_1.html", 
+ "lki":"OUTEIRO__LUGO_______", 
+ "lko":"LUGO", 
+ "cty":"LUGO", 
+ "text":"Ciudad the LUGO,  (N45,0 W4,0).;1 individuos: 1 ascendientes.;Apellidos más comunes: _.;1 eventos: 1 nacimientos.;" 
  },
 
 {
@@ -222,6 +270,22 @@ var obj = [
  "lko":"CORDOBA", 
  "cty":"CÓRDOBA", 
  "text":"Ciudad the CÓRDOBA,  (N45,0 W4,0).;3 individuos: 3 primos.;Apellidos más comunes: ARIZA, ARIZA ARIZA.;3 eventos: 2 nacimientos, 1 muertes.;" 
+ },
+
+{
+ "x": "-4.0", 
+ "y":"45.0", 
+ "s":"l", 
+ "a":"s", 
+ "t":"b", 
+ "d":"3", 
+ "min":"1849", 
+ "max":"1849", 
+ "lkp":"citiesdetails_1.html", 
+ "lki":"SAN_CLODIO_DE_RIVAS_DEL_SIL__LUGO_______", 
+ "lko":"LUGO", 
+ "cty":"LUGO", 
+ "text":"Ciudad the LUGO,  (N45,0 W4,0).;1 individuos: 1 ascendientes.;Apellidos más comunes: ARIAS RODRÍGUEZ.;2 eventos: 1 nacimientos, 1 otros.;se ha producido entre \"1 Feb 1849\" y \"4 Feb 1849\"." 
  },
 
 {
