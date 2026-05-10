@@ -4,6 +4,22 @@ var obj = [
  "x": "-4.0", 
  "y":"45.0", 
  "s":"l", 
+ "a":"c", 
+ "t":"m", 
+ "d":"3", 
+ "min":"1965", 
+ "max":"1965", 
+ "lkp":"citiesdetails_1.html", 
+ "lki":"0CUEVAS_DE_SAN_MARCOS__MALAGA_______", 
+ "lko":"MALAGA", 
+ "cty":"MÁLAGA", 
+ "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;2 individuos: 1 primos, 1 otros.;Apellidos más comunes: ALCÁNTARA ALGAR, LÓPEZ BENÍTEZ.;1 eventos: 1 matrimonios.;se ha producido el \"7 Mar 1965\"." 
+ },
+
+{
+ "x": "-4.0", 
+ "y":"45.0", 
+ "s":"l", 
  "a":"s", 
  "t":"b", 
  "d":"3", 
@@ -53,6 +69,22 @@ var obj = [
  "y":"45.0", 
  "s":"l", 
  "a":"c", 
+ "t":"b", 
+ "d":"3", 
+ "min":"1901", 
+ "max":"1901", 
+ "lkp":"citiesdetails_1.html", 
+ "lki":"CABRA__CORDOBA_______", 
+ "lko":"CORDOBA", 
+ "cty":"CÓRDOBA", 
+ "text":"Ciudad the CÓRDOBA,  (N45,0 W4,0).;1 individuos: 1 primos.;Apellidos más comunes: BENÍTEZ ARIAS.;1 eventos: 1 nacimientos.;se ha producido el \"1901\"." 
+ },
+
+{
+ "x": "-4.0", 
+ "y":"45.0", 
+ "s":"l", 
+ "a":"c", 
  "t":"d", 
  "d":"3", 
  "min":"1936", 
@@ -93,7 +125,7 @@ var obj = [
  "lki":"CUEVAS_DE_SAN_MARCOS__MALAGA_______", 
  "lko":"MALAGA", 
  "cty":"MÁLAGA", 
- "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;83 individuos: 36 ascendientes, 39 primos, 8 otros.;Apellidos más comunes: ARIZA ARIZA, RUANO ARIZA, BENÍTEZ ARIZA, _, ARIZA BURGOS.;116 eventos: 81 nacimientos, 5 matrimonios, 29 muertes, 1 otros.;se ha producido entre \"1851\" y \"24 Dic 2024\"." 
+ "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;94 individuos: 36 ascendientes, 47 primos, 11 otros.;Apellidos más comunes: ARIZA ARIZA, RUANO ARIZA, BENÍTEZ ARIZA, LÓPEZ BENÍTEZ, _.;127 eventos: 88 nacimientos, 8 matrimonios, 29 muertes, 2 otros.;se ha producido entre \"1851\" y \"24 Dic 2024\"." 
  },
 
 {
@@ -206,6 +238,22 @@ var obj = [
  "lko":"BARCELONA", 
  "cty":"BARCELONA", 
  "text":"Ciudad the BARCELONA,  (N45,0 W4,0).;2 individuos: 1 primos, 1 otros.;Apellidos más comunes: ARTACHO QUINTANA, RUANO ARIZA.;2 eventos: 2 muertes.;" 
+ },
+
+{
+ "x": "-4.0", 
+ "y":"45.0", 
+ "s":"l", 
+ "a":"c", 
+ "t":"d", 
+ "d":"3", 
+ "min":"2006", 
+ "max":"2006", 
+ "lkp":"citiesdetails_1.html", 
+ "lki":"VILLANUEVA_DE_ALGAIDAS__MALAGA_______", 
+ "lko":"MALAGA", 
+ "cty":"MÁLAGA", 
+ "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;1 individuos: 1 primos.;Apellidos más comunes: LÓPEZ BENÍTEZ.;1 eventos: 1 muertes.;se ha producido el \"9 Sep 2006\"." 
  },
 
 ];
