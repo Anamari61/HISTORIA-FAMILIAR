@@ -88,12 +88,12 @@ var obj = [
  "t":"bmd", 
  "d":"3", 
  "min":"1851", 
- "max":"2017", 
+ "max":"2024", 
  "lkp":"citiesdetails_1.html", 
  "lki":"CUEVAS_DE_SAN_MARCOS__MALAGA_______", 
  "lko":"MALAGA", 
  "cty":"MÁLAGA", 
- "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;81 individuos: 36 ascendientes, 38 primos, 7 otros.;Apellidos más comunes: ARIZA ARIZA, RUANO ARIZA, BENÍTEZ ARIZA, _, ARIZA BURGOS.;112 eventos: 79 nacimientos, 5 matrimonios, 27 muertes, 1 otros.;se ha producido entre \"1851\" y \"27 Abr 2017\"." 
+ "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;83 individuos: 36 ascendientes, 39 primos, 8 otros.;Apellidos más comunes: ARIZA ARIZA, RUANO ARIZA, BENÍTEZ ARIZA, _, ARIZA BURGOS.;116 eventos: 81 nacimientos, 5 matrimonios, 29 muertes, 1 otros.;se ha producido entre \"1851\" y \"24 Dic 2024\"." 
  },
 
 {
