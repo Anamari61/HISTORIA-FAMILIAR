@@ -72,12 +72,12 @@ var obj = [
  "t":"b", 
  "d":"3", 
  "min":"1901", 
- "max":"1901", 
+ "max":"1904", 
  "lkp":"citiesdetails_1.html", 
  "lki":"CABRA__CORDOBA_______", 
  "lko":"CORDOBA", 
  "cty":"CÓRDOBA", 
- "text":"Ciudad the CÓRDOBA,  (N45,0 W4,0).;1 individuos: 1 primos.;Apellidos más comunes: BENÍTEZ ARIAS.;1 eventos: 1 nacimientos.;se ha producido el \"1901\"." 
+ "text":"Ciudad the CÓRDOBA,  (N45,0 W4,0).;2 individuos: 2 primos.;Apellidos más comunes: BENÍTEZ ARIAS.;2 eventos: 2 nacimientos.;se ha producido entre \"1901\" y \"21 Jul 1904\"." 
  },
 
 {
