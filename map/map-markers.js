@@ -5,6 +5,22 @@ var obj = [
  "y":"45.0", 
  "s":"l", 
  "a":"c", 
+ "t":"d", 
+ "d":"3", 
+ "min":"1994", 
+ "max":"1994", 
+ "lkp":"citiesdetails_1.html", 
+ "lki":"00_CUEVAS_DE_SAN_MARCOS__MALAGA_______", 
+ "lko":"MALAGA", 
+ "cty":"MÁLAGA", 
+ "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;1 individuos: 1 primos.;Apellidos más comunes: LÓPEZ BENÍTEZ.;1 eventos: 1 muertes.;se ha producido el \"24 Abr 1994\"." 
+ },
+
+{
+ "x": "-4.0", 
+ "y":"45.0", 
+ "s":"l", 
+ "a":"c", 
  "t":"m", 
  "d":"3", 
  "min":"1965", 
@@ -141,7 +157,7 @@ var obj = [
  "lki":"CUEVAS_DE_SAN_MARCOS__MALAGA_______", 
  "lko":"MALAGA", 
  "cty":"MÁLAGA", 
- "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;96 individuos: 36 ascendientes, 48 primos, 12 otros.;Apellidos más comunes: ARIZA ARIZA, RUANO ARIZA, BENÍTEZ ARIZA, LÓPEZ BENÍTEZ, _.;129 eventos: 90 nacimientos, 8 matrimonios, 29 muertes, 2 otros.;se ha producido entre \"1851\" y \"24 Dic 2024\"." 
+ "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;98 individuos: 36 ascendientes, 49 primos, 13 otros.;Apellidos más comunes: ARIZA ARIZA, RUANO ARIZA, BENÍTEZ ARIZA, LÓPEZ BENÍTEZ, _.;132 eventos: 91 nacimientos, 8 matrimonios, 31 muertes, 2 otros.;se ha producido entre \"1851\" y \"24 Dic 2024\"." 
  },
 
 {
@@ -167,13 +183,13 @@ var obj = [
  "a":"c", 
  "t":"d", 
  "d":"3", 
- "min":"0", 
- "max":"0", 
+ "min":"1988", 
+ "max":"1988", 
  "lkp":"citiesdetails_1.html", 
  "lki":"ESTEPONA__MALAGA_______", 
  "lko":"MALAGA", 
  "cty":"MÁLAGA", 
- "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;1 individuos: 1 primos.;Apellidos más comunes: _.;1 eventos: 1 muertes.;" 
+ "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;1 individuos: 1 primos.;Apellidos más comunes: _.;1 eventos: 1 muertes.;se ha producido el \"1988\"." 
  },
 
 {
