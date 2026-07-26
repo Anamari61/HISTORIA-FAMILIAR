@@ -157,7 +157,7 @@ var obj = [
  "lki":"CUEVAS_DE_SAN_MARCOS__MALAGA_______", 
  "lko":"MALAGA", 
  "cty":"MÁLAGA", 
- "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;111 individuos: 38 ascendientes, 60 primos, 13 otros.;Apellidos más comunes: ARIZA ARIZA, RUANO ARIZA, BENÍTEZ ARIZA, LÓPEZ BENÍTEZ, RUANO HINOJOSA.;145 eventos: 104 nacimientos, 8 matrimonios, 31 muertes, 2 otros.;se ha producido entre \"1851\" y \"24 Dic 2024\"." 
+ "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;110 individuos: 38 ascendientes, 59 primos, 13 otros.;Apellidos más comunes: ARIZA ARIZA, RUANO ARIZA, BENÍTEZ ARIZA, LÓPEZ BENÍTEZ, RUANO HINOJOSA.;144 eventos: 103 nacimientos, 8 matrimonios, 31 muertes, 2 otros.;se ha producido entre \"1851\" y \"24 Dic 2024\"." 
  },
 
 {
