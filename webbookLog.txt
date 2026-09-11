@@ -2,7 +2,7 @@ Iniciada la generación del Webbook
 ----------- WebBook  - Publicación mejorada localmente o en Internet -----------
 WebBook  - 13.0.13853
 ----------- Inicio de la generación de páginas -----------
-Sat Sep 05 19:24:35 CEST 2026
+Fri Sep 11 12:19:13 CEST 2026
  
  
 ----------- Parámetros usados durante la generación -----------
@@ -69,41 +69,45 @@ Mapa geográfico
 theme: ok 
 includes: ok 
 names.html: ok 
-persons_1.html: ok 
-persons_2.html: ok 
-personsdetails_1.html: ok 
-personsdetails_2.html: ok 
-personsdetails_3.html: ok 
-personsdetails_4.html: ok 
-personsdetails_5.html: ok 
-personsdetails_6.html: ok 
-personsdetails_7.html: ok 
-personsdetails_8.html: ok 
+persons_01.html: ok 
+persons_02.html: ok 
+personsdetails_01.html: ok 
+personsdetails_02.html: ok 
+personsdetails_03.html: ok 
+personsdetails_04.html: ok 
+personsdetails_05.html: ok 
+personsdetails_06.html: ok 
+personsdetails_07.html: ok 
+personsdetails_08.html: ok 
+personsdetails_09.html: ok 
+personsdetails_10.html: ok 
+personsdetails_11.html: ok 
 popupemail.htm: ok 
-sources_0.html: ok 
-sources_1.html: ok 
+sources_00.html: ok 
+sources_01.html: ok 
 popup.htm: ok 
-media_0.html: ok 
-media_1.html: ok 
-media_2.html: ok 
+media_00.html: ok 
+media_01.html: ok 
+media_02.html: ok 
 popup.htm: ok 
 cities.html: ok 
-citiesdetails_1.html: ok 
+citiesdetails_01.html: ok 
 days.html: ok 
-daysdetails_1.html: ok 
-daysdetails_2.html: ok 
-stats_1.html: ok 
-stats_2.html: ok 
-repsosa_1.html: ok 
-repsosa_2.html: ok 
-repsosa_3.html: ok 
-repsosa_4.html: ok 
-search_0.html: ok 
-search_4.js: ok 
+daysdetails_01.html: ok 
+daysdetails_02.html: ok 
+stats_01.html: ok 
+stats_02.html: ok 
+repsosa_01.html: ok 
+repsosa_02.html: ok 
+repsosa_03.html: ok 
+repsosa_04.html: ok 
+repsosa_05.html: ok 
+search_00.html: ok 
+search_04.js: ok 
 map.html: ok 
-Number of ascendants: 103
-Number of cousins: 171
-21 lugares no se han encontrado. Si hubiera iniciado el módulo Geo anteriormente, Ancestris habría almacenado los lugares localmente para una recuperación más fácil.
+Number of ascendants: 127
+Number of cousins: 298
+23 lugares no se han encontrado. Si hubiera iniciado el módulo Geo anteriormente, Ancestris habría almacenado los lugares localmente para una recuperación más fácil.
 map-markers.js: ok 
 index.html: ok 
  
@@ -113,6 +117,6 @@ No se requiere subida del archivo
 ----------- Mostrando páginas WEB -----------
 file://C:/Users/Ana/.ancestris/13/WebBook/index.html
  
-Sat Sep 05 19:24:37 CEST 2026
+Fri Sep 11 12:19:15 CEST 2026
 ----------- Fin de la generación de páginas -----------
 Generación del Webbook completada con éxito :))))
