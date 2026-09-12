@@ -234,22 +234,6 @@ var obj = [
  "min":"0", 
  "max":"0", 
  "lkp":"citiesdetails_01.html", 
- "lki":"IZNAJAR__CORDOBA_______", 
- "lko":"CORDOBA", 
- "cty":"CÓRDOBA", 
- "text":"Ciudad the CÓRDOBA,  (N45,0 W4,0).;1 individuos: 1 ascendientes.;Apellidos más comunes: MOLERO.;1 eventos: 1 nacimientos.;" 
- },
-
-{
- "x": "-4.0", 
- "y":"45.0", 
- "s":"l", 
- "a":"s", 
- "t":"b", 
- "d":"3", 
- "min":"0", 
- "max":"0", 
- "lkp":"citiesdetails_01.html", 
  "lki":"LA_CABARCA__LUGO_______", 
  "lko":"LUGO", 
  "cty":"LUGO", 

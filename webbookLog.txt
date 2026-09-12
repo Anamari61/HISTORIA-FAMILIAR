@@ -2,7 +2,7 @@ Iniciada la generación del Webbook
 ----------- WebBook  - Publicación mejorada localmente o en Internet -----------
 WebBook  - 13.0.13853
 ----------- Inicio de la generación de páginas -----------
-Fri Sep 11 18:56:17 CEST 2026
+Sat Sep 12 12:56:34 CEST 2026
  
  
 ----------- Parámetros usados durante la generación -----------
@@ -82,6 +82,7 @@ personsdetails_08.html: ok
 personsdetails_09.html: ok 
 personsdetails_10.html: ok 
 personsdetails_11.html: ok 
+personsdetails_12.html: ok 
 popupemail.htm: ok 
 sources_00.html: ok 
 sources_01.html: ok 
@@ -105,9 +106,9 @@ repsosa_05.html: ok
 search_00.html: ok 
 search_04.js: ok 
 map.html: ok 
-Number of ascendants: 141
-Number of cousins: 310
-24 lugares no se han encontrado. Si hubiera iniciado el módulo Geo anteriormente, Ancestris habría almacenado los lugares localmente para una recuperación más fácil.
+Number of ascendants: 143
+Number of cousins: 342
+23 lugares no se han encontrado. Si hubiera iniciado el módulo Geo anteriormente, Ancestris habría almacenado los lugares localmente para una recuperación más fácil.
 map-markers.js: ok 
 index.html: ok 
  
@@ -117,6 +118,6 @@ No se requiere subida del archivo
 ----------- Mostrando páginas WEB -----------
 file://C:/Users/Ana/.ancestris/13/WebBook/index.html
  
-Fri Sep 11 18:56:19 CEST 2026
+Sat Sep 12 12:56:36 CEST 2026
 ----------- Fin de la generación de páginas -----------
 Generación del Webbook completada con éxito :))))
