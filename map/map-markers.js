@@ -52,16 +52,16 @@ var obj = [
  "x": "-4.0", 
  "y":"45.0", 
  "s":"l", 
- "a":"c", 
- "t":"d", 
+ "a":"s", 
+ "t":"bd", 
  "d":"3", 
- "min":"2022", 
+ "min":"1686", 
  "max":"2022", 
  "lkp":"citiesdetails_01.html", 
  "lki":"ANTEQUERA__MALAGA_______", 
  "lko":"MALAGA", 
  "cty":"MÁLAGA", 
- "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;1 individuos: 1 primos.;Apellidos más comunes: BENÍTEZ ARIZA.;1 eventos: 1 muertes.;se ha producido el \"28 Feb 2022\"." 
+ "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;2 individuos: 1 ascendientes, 1 primos.;Apellidos más comunes: BENÍTEZ ARIZA, LEIVA Y CÓRDOBA DEL CORRAL.;2 eventos: 1 nacimientos, 1 muertes.;se ha producido entre \"5 Jul 1686\" y \"28 Feb 2022\"." 
  },
 
 {
@@ -157,7 +157,7 @@ var obj = [
  "lki":"CUEVAS_BAJAS__MALAGA_______", 
  "lko":"MALAGA", 
  "cty":"MÁLAGA", 
- "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;1 individuos: 1 ascendientes.;Apellidos más comunes: VELASCO TORREMOCHA.;1 eventos: 1 nacimientos.;" 
+ "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;3 individuos: 3 ascendientes.;Apellidos más comunes: CORDÓN LEIVA Y CÓRDOBA, DE LARA, VELASCO TORREMOCHA.;3 eventos: 3 nacimientos.;" 
  },
 
 {
