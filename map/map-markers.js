@@ -309,6 +309,22 @@ var obj = [
  "y":"45.0", 
  "s":"l", 
  "a":"c", 
+ "t":"x", 
+ "d":"3", 
+ "min":"1953", 
+ "max":"1953", 
+ "lkp":"citiesdetails_01.html", 
+ "lki":"RIO_DE_JANEIRO__BRASIL_______", 
+ "lko":"BRASIL", 
+ "cty":"BRASIL", 
+ "text":"Ciudad the BRASIL,  (N45,0 W4,0).;1 individuos: 1 primos.;Apellidos más comunes: ARIZA ARIZA.;1 eventos: 1 otros.;se ha producido el \"1953\"." 
+ },
+
+{
+ "x": "-4.0", 
+ "y":"45.0", 
+ "s":"l", 
+ "a":"c", 
  "t":"bd", 
  "d":"3", 
  "min":"0", 
