@@ -173,7 +173,7 @@ var obj = [
  "lki":"CUEVAS_DE_SAN_MARCOS__MALAGA_______", 
  "lko":"MALAGA", 
  "cty":"MÁLAGA", 
- "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;136 individuos: 42 ascendientes, 79 primos, 15 otros.;Apellidos más comunes: RUANO ARIZA, ARIZA ARIZA, BENÍTEZ ARIZA, LÓPEZ BENÍTEZ, RUANO DURÁN.;173 eventos: 125 nacimientos, 13 matrimonios, 33 muertes, 2 otros.;se ha producido entre \"1794\" y \"24 Dic 2024\"." 
+ "text":"Ciudad the MÁLAGA,  (N45,0 W4,0).;141 individuos: 42 ascendientes, 84 primos, 15 otros.;Apellidos más comunes: BENÍTEZ ARIZA, RUANO ARIZA, ARIZA ARIZA, LÓPEZ BENÍTEZ, RUANO DURÁN.;178 eventos: 130 nacimientos, 13 matrimonios, 33 muertes, 2 otros.;se ha producido entre \"1794\" y \"24 Dic 2024\"." 
  },
 
 {
@@ -212,6 +212,22 @@ var obj = [
  "x": "-4.0", 
  "y":"45.0", 
  "s":"l", 
+ "a":"c", 
+ "t":"d", 
+ "d":"3", 
+ "min":"1997", 
+ "max":"1997", 
+ "lkp":"citiesdetails_01.html", 
+ "lki":"GUARAREMA__SAO_PAULO__BRASIL_____", 
+ "lko":"SAO_PAULO", 
+ "cty":"SAO PAULO", 
+ "text":"Ciudad the SAO PAULO,  (N45,0 W4,0).;1 individuos: 1 primos.;Apellidos más comunes: BENÍTEZ ARIZA.;1 eventos: 1 muertes.;se ha producido el \"14 Dic 1997\"." 
+ },
+
+{
+ "x": "-4.0", 
+ "y":"45.0", 
+ "s":"l", 
  "a":"s", 
  "t":"bmd", 
  "d":"3", 
@@ -222,6 +238,22 @@ var obj = [
  "lko":"BARCELONA", 
  "cty":"BARCELONA", 
  "text":"Ciudad the BARCELONA,  (N45,0 W4,0).;14 individuos: 2 ascendientes, 3 primos, 9 otros.;Apellidos más comunes: CHIVITE PÉREZ, PÉREZ AYALA, BENÍTEZ ARIZA, CHIVITE BEA, CHIVITE RUANO.;16 eventos: 6 nacimientos, 3 matrimonios, 5 muertes, 2 otros.;se ha producido entre \"16 Jun 1960\" y \"28 May 2023\"." 
+ },
+
+{
+ "x": "-4.0", 
+ "y":"45.0", 
+ "s":"l", 
+ "a":"c", 
+ "t":"b", 
+ "d":"3", 
+ "min":"1925", 
+ "max":"1931", 
+ "lkp":"citiesdetails_01.html", 
+ "lki":"JACAREI__SAO_PAULO__BRASIL_____", 
+ "lko":"SAO_PAULO", 
+ "cty":"SAO PAULO", 
+ "text":"Ciudad the SAO PAULO,  (N45,0 W4,0).;3 individuos: 3 primos.;Apellidos más comunes: BENÍTEZ ARIZA.;3 eventos: 3 nacimientos.;se ha producido entre \"4 Nov 1925\" y \"8 Mar 1931\"." 
  },
 
 {
@@ -350,6 +382,22 @@ var obj = [
  "lko":"LUGO", 
  "cty":"LUGO", 
  "text":"Ciudad the LUGO,  (N45,0 W4,0).;1 individuos: 1 ascendientes.;Apellidos más comunes: ARIAS RODRÍGUEZ.;2 eventos: 1 nacimientos, 1 otros.;se ha producido entre \"1 Feb 1849\" y \"4 Feb 1849\"." 
+ },
+
+{
+ "x": "-4.0", 
+ "y":"45.0", 
+ "s":"l", 
+ "a":"c", 
+ "t":"d", 
+ "d":"3", 
+ "min":"1991", 
+ "max":"1991", 
+ "lkp":"citiesdetails_01.html", 
+ "lki":"SAO_PAULO__BRASIL_______", 
+ "lko":"BRASIL", 
+ "cty":"BRASIL", 
+ "text":"Ciudad the BRASIL,  (N45,0 W4,0).;1 individuos: 1 primos.;Apellidos más comunes: BENÍTEZ ARIZA.;1 eventos: 1 muertes.;se ha producido el \"30 Dic 1991\"." 
  },
 
 {
