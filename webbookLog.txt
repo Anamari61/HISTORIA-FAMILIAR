@@ -2,7 +2,7 @@ Iniciada la generación del Webbook
 ----------- WebBook  - Publicación mejorada localmente o en Internet -----------
 WebBook  - 13.0.13853
 ----------- Inicio de la generación de páginas -----------
-Fri Oct 16 13:33:56 CEST 2026
+Fri Oct 16 18:23:48 CEST 2026
  
  
 ----------- Parámetros usados durante la generación -----------
@@ -122,6 +122,6 @@ No se requiere subida del archivo
 ----------- Mostrando páginas WEB -----------
 file://C:/Users/Ana/.ancestris/13/WebBook/index.html
  
-Fri Oct 16 13:33:59 CEST 2026
+Fri Oct 16 18:23:50 CEST 2026
 ----------- Fin de la generación de páginas -----------
 Generación del Webbook completada con éxito :))))

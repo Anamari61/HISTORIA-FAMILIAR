@@ -119,13 +119,13 @@ var obj = [
  "a":"s", 
  "t":"b", 
  "d":"3", 
- "min":"0", 
- "max":"0", 
+ "min":"1820", 
+ "max":"1820", 
  "lkp":"citiesdetails_01.html", 
  "lki":"CIMADEVILA__LUGO_______", 
  "lko":"LUGO", 
  "cty":"LUGO", 
- "text":"Ciudad the LUGO,  (N45,0 W4,0).;2 individuos: 2 ascendientes.;Apellidos más comunes: ARIAS, VÁZQUEZ.;2 eventos: 2 nacimientos.;" 
+ "text":"Ciudad the LUGO,  (N45,0 W4,0).;2 individuos: 2 ascendientes.;Apellidos más comunes: ARIAS, ARIAS VÁZQUEZ.;2 eventos: 2 nacimientos.;se ha producido el \"9 Feb 1820\"." 
  },
 
 {
@@ -317,7 +317,7 @@ var obj = [
  "lki":"OUTEIRO__LUGO_______", 
  "lko":"LUGO", 
  "cty":"LUGO", 
- "text":"Ciudad the LUGO,  (N45,0 W4,0).;1 individuos: 1 ascendientes.;Apellidos más comunes: _.;1 eventos: 1 nacimientos.;" 
+ "text":"Ciudad the LUGO,  (N45,0 W4,0).;1 individuos: 1 ascendientes.;Apellidos más comunes: ARIAS.;1 eventos: 1 nacimientos.;" 
  },
 
 {
@@ -375,13 +375,13 @@ var obj = [
  "a":"s", 
  "t":"b", 
  "d":"3", 
- "min":"1820", 
+ "min":"1849", 
  "max":"1849", 
  "lkp":"citiesdetails_01.html", 
  "lki":"SAN_CLODIO_DE_RIVAS_DEL_SIL__LUGO_______", 
  "lko":"LUGO", 
  "cty":"LUGO", 
- "text":"Ciudad the LUGO,  (N45,0 W4,0).;2 individuos: 2 ascendientes.;Apellidos más comunes: ARIAS RODRÍGUEZ, ARIAS VÁZQUEZ.;3 eventos: 2 nacimientos, 1 otros.;se ha producido entre \"9 Feb 1820\" y \"4 Feb 1849\"." 
+ "text":"Ciudad the LUGO,  (N45,0 W4,0).;1 individuos: 1 ascendientes.;Apellidos más comunes: ARIAS RODRÍGUEZ.;2 eventos: 1 nacimientos, 1 otros.;se ha producido entre \"1 Feb 1849\" y \"4 Feb 1849\"." 
  },
 
 {
