@@ -39,13 +39,13 @@ var obj = [
  "a":"s", 
  "t":"bm", 
  "d":"3", 
- "min":"1860", 
+ "min":"1813", 
  "max":"1878", 
  "lkp":"citiesdetails_01.html", 
  "lki":"AGUILAR_DE_LA_FRONTERA__CORDOBA_______", 
  "lko":"CORDOBA", 
  "cty":"CÓRDOBA", 
- "text":"Ciudad the CÓRDOBA,  (N45,0 W4,0).;2 individuos: 2 ascendientes.;Apellidos más comunes: CARRILLO HURTADO, ARIAS RODRÍGUEZ.;2 eventos: 1 nacimientos, 1 matrimonios.;se ha producido entre \"30 Jun 1860\" y \"23 Feb 1878\"." 
+ "text":"Ciudad the CÓRDOBA,  (N45,0 W4,0).;11 individuos: 3 ascendientes, 8 primos.;Apellidos más comunes: HURTADO, CARRILLO HURTADO, ARIAS RODRÍGUEZ.;11 eventos: 10 nacimientos, 1 matrimonios.;se ha producido entre \"1813\" y \"23 Feb 1878\"." 
  },
 
 {
