@@ -39,13 +39,13 @@ var obj = [
  "a":"s", 
  "t":"bm", 
  "d":"3", 
- "min":"1791", 
+ "min":"1794", 
  "max":"1878", 
  "lkp":"citiesdetails_01.html", 
  "lki":"AGUILAR_DE_LA_FRONTERA__CORDOBA_______", 
  "lko":"CORDOBA", 
  "cty":"CÓRDOBA", 
- "text":"Ciudad the CÓRDOBA,  (N45,0 W4,0).;18 individuos: 6 ascendientes, 12 primos.;Apellidos más comunes: HURTADO, CARRILLO HURTADO, ARIAS RODRÍGUEZ, CARRILLO PLAZA, HURTADO LÓPEZ.;18 eventos: 17 nacimientos, 1 matrimonios.;se ha producido entre \"1791\" y \"23 Feb 1878\"." 
+ "text":"Ciudad the CÓRDOBA,  (N45,0 W4,0).;18 individuos: 6 ascendientes, 12 primos.;Apellidos más comunes: HURTADO, CARRILLO HURTADO, ARIAS RODRÍGUEZ, CARRILLO PLAZA, HURTADO LÓPEZ.;18 eventos: 17 nacimientos, 1 matrimonios.;se ha producido entre \"1794\" y \"23 Feb 1878\"." 
  },
 
 {
